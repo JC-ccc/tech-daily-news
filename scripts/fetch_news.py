@@ -1,27 +1,56 @@
 import os
 import json
-import time
+import re
 from datetime import datetime, timezone, timedelta
 import feedparser
 from dateutil import parser as date_parser
+from deep_translator import GoogleTranslator
 
-# 精選資訊工程/科技 RSS 來源清單
+# 科技與資工 RSS 來源清單
 FEEDS = [
-    {"source": "Hacker News (Best)", "url": "https://hnrss.org/best"},
-    {"source": "Ars Technica - IT", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab"},
-    {"source": "InfoQ Development", "url": "https://feed.infoq.com/"},
-    {"source": "GitHub Trending Blog", "url": "https://github.blog/feed/"},
+    # 核心資工/技術
+    {"source": "Hacker News", "url": "https://hnrss.org/best"},
+    {"source": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab"},
+    {"source": "InfoQ", "url": "https://feed.infoq.com/"},
+    {"source": "GitHub Blog", "url": "https://github.blog/feed/"},
+    # 民生資安/大眾科技影響
+    {"source": "BleepingComputer", "url": "https://www.bleepingcomputer.com/feed/"},
+    {"source": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
 ]
 
-# 資工/科技關鍵字權重（用於篩選重要性）
-KEYWORDS = [
-    "ai", "llm", "security", "vulnerability", "release", "linux", "cloud",
-    "compiler", "database", "python", "rust", "go", "performance", "architecture",
-    "chip", "nvidia", "google", "microsoft", "apple", "open-source", "kernel"
+# 核心資工關鍵字
+TECH_KEYWORDS = [
+    "ai", "llm", "compiler", "database", "python", "rust", "go",
+    "performance", "architecture", "chip", "kernel", "linux", "cloud", "open-source"
 ]
+
+# 大眾民生與重大影響關鍵字（影響金融、醫療、公共服務、密碼隱私、大當機）
+PUBLIC_KEYWORDS = [
+    "outage", "down", "ransomware", "breach", "leak", "scam", "hospital",
+    "bank", "critical", "vulnerability", "zero-day", "malware", "phishing",
+    "privacy", "passwords", "consumer", "attack", "exploit", "airline", "infrastructure"
+]
+
+translator = GoogleTranslator(source='auto', target='zh-TW')
+
+def clean_html(raw_html):
+    clean_text = re.sub(r'<.*?>', '', raw_html)
+    return ' '.join(clean_text.split())
+
+def translate_and_summarize(text, max_len=50):
+    if not text:
+        return "暫無內容簡介，請點擊來源閱讀全文。"
+    try:
+        translated = translator.translate(text[:250])
+        translated = clean_html(translated)
+        if len(translated) > max_len:
+            return translated[:max_len - 1] + "…"
+        return translated
+    except Exception as e:
+        print(f"Translation warning: {e}")
+        return clean_html(text)[:max_len]
 
 def parse_published_time(entry):
-    """解析文章發布時間並轉為 UTC datetime"""
     for field in ("published", "updated", "created"):
         if hasattr(entry, field):
             try:
@@ -30,12 +59,30 @@ def parse_published_time(entry):
                 pass
     return datetime.now(timezone.utc)
 
-def fetch_top_stories():
+def process_selected_articles(articles):
+    results = []
+    for item in articles:
+        try:
+            zh_title = translator.translate(item["raw_title"])
+        except Exception:
+            zh_title = item["raw_title"]
+
+        zh_summary = translate_and_summarize(item["raw_summary"] or item["raw_title"], max_len=50)
+
+        results.append({
+            "title_zh": zh_title,
+            "title_en": item["raw_title"],
+            "url": item["url"],
+            "source": item["source"],
+            "published_at": item["published_at"],
+            "summary_zh": zh_summary
+        })
+    return results
+
+def fetch_all_stories():
     now = datetime.now(timezone.utc)
-    # 抓取最近 36 小時以內的新聞，確保涵蓋前一天
     time_window = timedelta(hours=36)
-    
-    candidates = []
+    all_candidates = []
 
     for feed_info in FEEDS:
         try:
@@ -45,49 +92,54 @@ def fetch_top_stories():
                 if now - pub_time > time_window:
                     continue
 
-                title = entry.get("title", "").strip()
+                raw_title = entry.get("title", "").strip()
                 link = entry.get("link", "")
-                summary = entry.get("summary", "")
-                
-                # 清理 summary 中的 HTML 標籤（簡易版）
-                clean_summary = summary.split("<")[0].strip() if summary else "點擊來源以閱讀完整內文。"
-                if len(clean_summary) > 160:
-                    clean_summary = clean_summary[:157] + "..."
+                raw_summary = entry.get("summary", "")
+                full_text = f"{raw_title} {raw_summary}".lower()
 
-                # 計算關鍵字權重評分
-                text_to_scan = f"{title} {summary}".lower()
-                score = sum(1 for kw in KEYWORDS if kw in text_to_scan)
+                tech_score = sum(1 for kw in TECH_KEYWORDS if kw in full_text)
+                public_score = sum(2 for kw in PUBLIC_KEYWORDS if kw in full_text)
 
-                candidates.append({
-                    "title": title,
+                all_candidates.append({
+                    "raw_title": raw_title,
                     "url": link,
                     "source": feed_info["source"],
                     "published_at": pub_time.strftime("%Y-%m-%d %H:%M UTC"),
-                    "summary": clean_summary,
-                    "score": score
+                    "raw_summary": clean_html(raw_summary),
+                    "tech_score": tech_score,
+                    "public_score": public_score,
                 })
         except Exception as e:
             print(f"Error fetching {feed_info['source']}: {e}")
 
-    # 依照權重分數降序排列，取前 5 則
-    candidates.sort(key=lambda x: x["score"], reverse=True)
-    top_5 = candidates[:5]
+    # 1. 篩選前 3 則民生重大影響新聞（public_score 優先）
+    public_sorted = sorted(all_candidates, key=lambda x: x["public_score"], reverse=True)
+    top_public = [x for x in public_sorted if x["public_score"] > 0][:3]
+    if len(top_public) < 3 and public_sorted:
+        top_public = public_sorted[:3]
 
-    # 若抓取不足 5 則，放寬限制補齊
-    if len(top_5) < 5 and candidates:
-        top_5 = candidates[:min(5, len(candidates))]
+    chosen_urls = {item["url"] for item in top_public}
 
-    # 輸出結構
+    # 2. 篩選前 5 則技術核心新聞（排除已入選民生新聞的項目）
+    tech_candidates = [x for x in all_candidates if x["url"] not in chosen_urls]
+    tech_candidates.sort(key=lambda x: x["tech_score"], reverse=True)
+    top_tech = tech_candidates[:5] if len(tech_candidates) >= 5 else tech_candidates
+
+    print("正在翻譯與產出 50 字繁體中文摘要...")
+    processed_tech = process_selected_articles(top_tech)
+    processed_public = process_selected_articles(top_public)
+
     output = {
         "updated_at": datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S (UTC+8)"),
-        "total": len(top_5),
-        "articles": top_5
+        "core_articles": processed_tech,
+        "public_articles": processed_public
     }
 
     os.makedirs("data", exist_ok=True)
     with open("data/news.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
-    print(f"Successfully exported {len(top_5)} news stories.")
+
+    print(f"完成！核心技術新聞：{len(processed_tech)} 則，民生焦點新聞：{len(processed_public)} 則。")
 
 if __name__ == "__main__":
-    fetch_top_stories()
+    fetch_all_stories()
