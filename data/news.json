@@ -1,46 +1,71 @@
 {
-  "updated_at": "2026-10-27 13:15:48 (UTC+8)",
-  "total": 5,
-  "articles": [
+  "updated_at": "2026-10-27 13:40:19 (UTC+8)",
+  "core_articles": [
     {
-      "title": "PyTorch Conference 2026: Google and Meta Open-Source TorchTPU for Native PyTorch on TPUs",
-      "url": "https://www.infoq.com/news/2026/10/google-meta-torchtpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ Development",
-      "published_at": "2026-10-25 18:00 UTC",
-      "summary": "",
-      "score": 6
-    },
-    {
-      "title": "Readyon Builds Four Layer Tenant Isolation for Multi Tenant Amazon EKS",
+      "title_zh": "Readyon Builds Four Layer Tenant Isolation for Multi Tenant Amazon EKS",
+      "title_en": "Readyon Builds Four Layer Tenant Isolation for Multi Tenant Amazon EKS",
       "url": "https://www.infoq.com/news/2026/10/readyon-four-layer-isolation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ Development",
+      "source": "InfoQ",
       "published_at": "2026-10-26 14:07 UTC",
-      "summary": "",
-      "score": 5
+      "summary_zh": "ReadyOn has detailed a four-layer tenant isolation"
     },
     {
-      "title": "AGNTCon + MCPCon 2026: Agentic AI Foundation Adds Four Projects as MCP Turns to Security",
-      "url": "https://www.infoq.com/news/2026/10/agntcon-mcpcon-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ Development",
-      "published_at": "2026-10-26 22:00 UTC",
-      "summary": "",
-      "score": 4
-    },
-    {
-      "title": "Article: The Evolution of Agentic Harnesses: From Chains to Graph to Code",
+      "title_zh": "Article: The Evolution of Agentic Harnesses: From Chains to Graph to Code",
+      "title_en": "Article: The Evolution of Agentic Harnesses: From Chains to Graph to Code",
       "url": "https://www.infoq.com/articles/agentic-ai-architecture-harness-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ Development",
+      "source": "InfoQ",
       "published_at": "2026-10-26 11:00 UTC",
-      "summary": "",
-      "score": 4
+      "summary_zh": "Agentic LLM systems have moved from linear prompt "
     },
     {
-      "title": "Cloudflare’s Auto Router Rates Each Request for Stakes, from the Most Recent Turns",
-      "url": "https://www.infoq.com/news/2026/10/cloudflare-auto-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ Development",
-      "published_at": "2026-10-26 10:20 UTC",
-      "summary": "",
-      "score": 3
+      "title_zh": "PyTorch Conference 2026: Google and Meta Open-Source TorchTPU for Native PyTorch on TPUs",
+      "title_en": "PyTorch Conference 2026: Google and Meta Open-Source TorchTPU for Native PyTorch on TPUs",
+      "url": "https://www.infoq.com/news/2026/10/google-meta-torchtpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-10-25 18:00 UTC",
+      "summary_zh": "Google and Meta open-sourced TorchTPU, a native Py"
+    },
+    {
+      "title_zh": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "title_en": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "source": "Hacker News",
+      "published_at": "2026-10-25 21:11 UTC",
+      "summary_zh": "Article URL: https://minimaxir.com/2026/10/cheap-l"
+    },
+    {
+      "title_zh": "AGNTCon + MCPCon 2026: Agentic AI Foundation Adds Four Projects as MCP Turns to Security",
+      "title_en": "AGNTCon + MCPCon 2026: Agentic AI Foundation Adds Four Projects as MCP Turns to Security",
+      "url": "https://www.infoq.com/news/2026/10/agntcon-mcpcon-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-10-26 22:00 UTC",
+      "summary_zh": "At AGNTCon + MCPCon North America 2026, the Agenti"
+    }
+  ],
+  "public_articles": [
+    {
+      "title_zh": "PHP Patches Two Critical RCE Flaws That Were Already under Attack",
+      "title_en": "PHP Patches Two Critical RCE Flaws That Were Already under Attack",
+      "url": "https://www.infoq.com/news/2026/10/php-critical-rce-patches/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-10-25 18:07 UTC",
+      "summary_zh": "PHP released 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to"
+    },
+    {
+      "title_zh": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+      "title_en": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-26 16:27 UTC",
+      "summary_zh": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the"
+    },
+    {
+      "title_zh": "Java News Roundup: JDK 28 Schedule, Oracle CPUs, eMudhra Certs, Apache POI, WildFly, Azul, BellSoft",
+      "title_en": "Java News Roundup: JDK 28 Schedule, Oracle CPUs, eMudhra Certs, Apache POI, WildFly, Azul, BellSoft",
+      "url": "https://www.infoq.com/news/2026/10/java-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-10-26 14:35 UTC",
+      "summary_zh": "This week's Java roundup for October 19th, 2026, f"
     }
   ]
 }
