@@ -1,0 +1,10 @@
+tech-daily-news/
+├── .github/
+│   └── workflows/
+│       └── fetch_news.yml   # 每日定時排程 (GitHub Actions)
+├── scripts/
+│   └── fetch_news.py        # 抓取、篩選新聞的腳本
+├── index.html               # 前端展示網頁
+├── requirements.txt         # Python 依賴套件
+└── data/
+    └── news.json            # 產出儲存的新聞資料

@@ -1,0 +1,36 @@
+name: Daily Tech News Fetcher
+
+on:
+  schedule:
+    # 每天 UTC 00:00 (即台灣時間上午 08:00) 觸發
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允許手動點擊執行測試
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 允許推回更新後的 data/news.json
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Fetch Script
+        run: |
+          python scripts/fetch_news.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto: Update daily top 5 tech news" && git push)
