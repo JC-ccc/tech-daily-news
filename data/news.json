@@ -1,71 +1,71 @@
 {
-  "updated_at": "2026-10-27 13:40:19 (UTC+8)",
+  "updated_at": "2026-10-28 12:16:13 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "Readyon Builds Four Layer Tenant Isolation for Multi Tenant Amazon EKS",
-      "title_en": "Readyon Builds Four Layer Tenant Isolation for Multi Tenant Amazon EKS",
-      "url": "https://www.infoq.com/news/2026/10/readyon-four-layer-isolation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Presentation: Serving LLMs at Scale: The Hidden KV Cache Advantage",
+      "title_en": "Presentation: Serving LLMs at Scale: The Hidden KV Cache Advantage",
+      "url": "https://www.infoq.com/presentations/llm-inference-kv-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-10-26 14:07 UTC",
-      "summary_zh": "ReadyOn has detailed a four-layer tenant isolation"
+      "published_at": "2026-10-27 11:00 UTC",
+      "summary_zh": "Khawaja Shams shares a distributed systems perspec"
     },
     {
-      "title_zh": "Article: The Evolution of Agentic Harnesses: From Chains to Graph to Code",
-      "title_en": "Article: The Evolution of Agentic Harnesses: From Chains to Graph to Code",
-      "url": "https://www.infoq.com/articles/agentic-ai-architecture-harness-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Cloudflare and VoidZero Introduce tsrs: An AI-Generated Rust Port of TypeScript",
+      "title_en": "Cloudflare and VoidZero Introduce tsrs: An AI-Generated Rust Port of TypeScript",
+      "url": "https://www.infoq.com/news/2026/10/cloudflare-tsrs-ai-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-10-26 11:00 UTC",
-      "summary_zh": "Agentic LLM systems have moved from linear prompt "
+      "published_at": "2026-10-27 07:34 UTC",
+      "summary_zh": "Cloudflare, VoidZero and Max Schwenk announced tsr"
     },
     {
-      "title_zh": "PyTorch Conference 2026: Google and Meta Open-Source TorchTPU for Native PyTorch on TPUs",
-      "title_en": "PyTorch Conference 2026: Google and Meta Open-Source TorchTPU for Native PyTorch on TPUs",
-      "url": "https://www.infoq.com/news/2026/10/google-meta-torchtpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "AWS Shows Use of AI Agents to Triage Linux Kernel CVEs",
+      "title_en": "AWS Shows Use of AI Agents to Triage Linux Kernel CVEs",
+      "url": "https://www.infoq.com/news/2026/10/aws-ai-agents-linux-kernel-cves/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-10-25 18:00 UTC",
-      "summary_zh": "Google and Meta open-sourced TorchTPU, a native Py"
+      "published_at": "2026-10-27 09:00 UTC",
+      "summary_zh": "Engineers from Amazon Web Services (AWS) have desc"
     },
     {
-      "title_zh": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "title_en": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms/",
-      "source": "Hacker News",
-      "published_at": "2026-10-25 21:11 UTC",
-      "summary_zh": "Article URL: https://minimaxir.com/2026/10/cheap-l"
+      "title_zh": "Uber Moves beyond CPU Cores with Performance-Aware Scheduling for Stateful Workloads",
+      "title_en": "Uber Moves beyond CPU Cores with Performance-Aware Scheduling for Stateful Workloads",
+      "url": "https://www.infoq.com/news/2026/10/uber-cpu-stateful-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-10-27 12:00 UTC",
+      "summary_zh": "Uber has introduced Normalized Compute Units (NCUs"
     },
     {
-      "title_zh": "AGNTCon + MCPCon 2026: Agentic AI Foundation Adds Four Projects as MCP Turns to Security",
-      "title_en": "AGNTCon + MCPCon 2026: Agentic AI Foundation Adds Four Projects as MCP Turns to Security",
-      "url": "https://www.infoq.com/news/2026/10/agntcon-mcpcon-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "How Anthropic Redesigned Source Control for AI-Driven Development",
+      "title_en": "How Anthropic Redesigned Source Control for AI-Driven Development",
+      "url": "https://www.infoq.com/news/2026/10/anthropic-source-control/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-10-26 22:00 UTC",
-      "summary_zh": "At AGNTCon + MCPCon North America 2026, the Agenti"
+      "published_at": "2026-10-27 11:25 UTC",
+      "summary_zh": "Anthropic recently detailed how it migrated its mo"
     }
   ],
   "public_articles": [
     {
-      "title_zh": "PHP Patches Two Critical RCE Flaws That Were Already under Attack",
-      "title_en": "PHP Patches Two Critical RCE Flaws That Were Already under Attack",
-      "url": "https://www.infoq.com/news/2026/10/php-critical-rce-patches/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-10-25 18:07 UTC",
-      "summary_zh": "PHP released 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to"
-    },
-    {
-      "title_zh": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
-      "title_en": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+      "title_zh": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "title_en": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
       "source": "BleepingComputer",
-      "published_at": "2026-10-26 16:27 UTC",
-      "summary_zh": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the"
+      "published_at": "2026-10-27 23:35 UTC",
+      "summary_zh": "The GMO Group has urged customers to disconnect th"
     },
     {
-      "title_zh": "Java News Roundup: JDK 28 Schedule, Oracle CPUs, eMudhra Certs, Apache POI, WildFly, Azul, BellSoft",
-      "title_en": "Java News Roundup: JDK 28 Schedule, Oracle CPUs, eMudhra Certs, Apache POI, WildFly, Azul, BellSoft",
-      "url": "https://www.infoq.com/news/2026/10/java-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-10-26 14:35 UTC",
-      "summary_zh": "This week's Java roundup for October 19th, 2026, f"
+      "title_zh": "UNM Health ransomware attack disrupts patient care, surgeries",
+      "title_en": "UNM Health ransomware attack disrupts patient care, surgeries",
+      "url": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-27 22:07 UTC",
+      "summary_zh": "The University of New Mexico Health Sciences Cente"
+    },
+    {
+      "title_zh": "Warp discloses breach exposing AI agent logs, user telemetry data",
+      "title_en": "Warp discloses breach exposing AI agent logs, user telemetry data",
+      "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-27 16:15 UTC",
+      "summary_zh": "Agent decision logs and telemetry data belonging t"
     }
   ]
 }
