@@ -1,71 +1,71 @@
 {
-  "updated_at": "2026-10-28 12:16:13 (UTC+8)",
+  "updated_at": "2026-10-29 12:36:54 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "Presentation: Serving LLMs at Scale: The Hidden KV Cache Advantage",
-      "title_en": "Presentation: Serving LLMs at Scale: The Hidden KV Cache Advantage",
-      "url": "https://www.infoq.com/presentations/llm-inference-kv-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Airbnb Cuts Recommendation Staleness from 2 Days to Seconds with Chronon",
+      "title_en": "Airbnb Cuts Recommendation Staleness from 2 Days to Seconds with Chronon",
+      "url": "https://www.infoq.com/news/2026/10/airbnb-chronon-recommendation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-10-27 11:00 UTC",
-      "summary_zh": "Khawaja Shams shares a distributed systems perspec"
+      "published_at": "2026-10-28 13:53 UTC",
+      "summary_zh": "Airbnb extended its Chronon feature platform with "
     },
     {
-      "title_zh": "Cloudflare and VoidZero Introduce tsrs: An AI-Generated Rust Port of TypeScript",
-      "title_en": "Cloudflare and VoidZero Introduce tsrs: An AI-Generated Rust Port of TypeScript",
-      "url": "https://www.infoq.com/news/2026/10/cloudflare-tsrs-ai-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Cloudflare Opens Quicksilver to Customers as Workers KV Instant, Inside a 1 MB Envelope",
+      "title_en": "Cloudflare Opens Quicksilver to Customers as Workers KV Instant, Inside a 1 MB Envelope",
+      "url": "https://www.infoq.com/news/2026/10/workers-kv-instant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-10-27 07:34 UTC",
-      "summary_zh": "Cloudflare, VoidZero and Max Schwenk announced tsr"
+      "published_at": "2026-10-28 08:57 UTC",
+      "summary_zh": "Cloudflare has put Quicksilver, the internal key-v"
     },
     {
-      "title_zh": "AWS Shows Use of AI Agents to Triage Linux Kernel CVEs",
-      "title_en": "AWS Shows Use of AI Agents to Triage Linux Kernel CVEs",
-      "url": "https://www.infoq.com/news/2026/10/aws-ai-agents-linux-kernel-cves/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-10-27 09:00 UTC",
-      "summary_zh": "Engineers from Amazon Web Services (AWS) have desc"
+      "title_zh": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "title_en": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+      "source": "The Verge",
+      "published_at": "2026-10-29 02:22 UTC",
+      "summary_zh": "On Tuesday, defense contractor Anduril and chipmak"
     },
     {
-      "title_zh": "Uber Moves beyond CPU Cores with Performance-Aware Scheduling for Stateful Workloads",
-      "title_en": "Uber Moves beyond CPU Cores with Performance-Aware Scheduling for Stateful Workloads",
-      "url": "https://www.infoq.com/news/2026/10/uber-cpu-stateful-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-10-27 12:00 UTC",
-      "summary_zh": "Uber has introduced Normalized Compute Units (NCUs"
+      "title_zh": "Gemini 4 Carbon",
+      "title_en": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "source": "Hacker News",
+      "published_at": "2026-10-28 17:01 UTC",
+      "summary_zh": "Article URL: https://blog.google/innovation-and-ai"
     },
     {
-      "title_zh": "How Anthropic Redesigned Source Control for AI-Driven Development",
-      "title_en": "How Anthropic Redesigned Source Control for AI-Driven Development",
-      "url": "https://www.infoq.com/news/2026/10/anthropic-source-control/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-10-27 11:25 UTC",
-      "summary_zh": "Anthropic recently detailed how it migrated its mo"
+      "title_zh": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "title_en": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "source": "Hacker News",
+      "published_at": "2026-10-27 19:55 UTC",
+      "summary_zh": "Article URL: https://www.brangus.io/survival-llm C"
     }
   ],
   "public_articles": [
     {
-      "title_zh": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
-      "title_en": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "title_zh": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+      "title_en": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
       "source": "BleepingComputer",
-      "published_at": "2026-10-27 23:35 UTC",
-      "summary_zh": "The GMO Group has urged customers to disconnect th"
+      "published_at": "2026-10-28 14:00 UTC",
+      "summary_zh": "Attackers are actively exploiting vulnerabilities "
     },
     {
-      "title_zh": "UNM Health ransomware attack disrupts patient care, surgeries",
-      "title_en": "UNM Health ransomware attack disrupts patient care, surgeries",
-      "url": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+      "title_zh": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+      "title_en": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+      "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
       "source": "BleepingComputer",
-      "published_at": "2026-10-27 22:07 UTC",
-      "summary_zh": "The University of New Mexico Health Sciences Cente"
+      "published_at": "2026-10-28 13:50 UTC",
+      "summary_zh": "PHP2Shell shows how quickly attackers can exploit "
     },
     {
-      "title_zh": "Warp discloses breach exposing AI agent logs, user telemetry data",
-      "title_en": "Warp discloses breach exposing AI agent logs, user telemetry data",
-      "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+      "title_zh": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+      "title_en": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
       "source": "BleepingComputer",
-      "published_at": "2026-10-27 16:15 UTC",
-      "summary_zh": "Agent decision logs and telemetry data belonging t"
+      "published_at": "2026-10-28 10:46 UTC",
+      "summary_zh": "On Tuesday, the US Cybersecurity and Infrastructur"
     }
   ]
 }
