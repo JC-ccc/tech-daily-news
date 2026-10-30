@@ -1,29 +1,21 @@
 {
-  "updated_at": "2026-10-29 12:36:54 (UTC+8)",
+  "updated_at": "2026-10-30 12:37:02 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "Airbnb Cuts Recommendation Staleness from 2 Days to Seconds with Chronon",
-      "title_en": "Airbnb Cuts Recommendation Staleness from 2 Days to Seconds with Chronon",
-      "url": "https://www.infoq.com/news/2026/10/airbnb-chronon-recommendation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-10-28 13:53 UTC",
-      "summary_zh": "Airbnb extended its Chronon feature platform with "
+      "title_zh": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
+      "title_en": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-29 13:59 UTC",
+      "summary_zh": "The U.S. Cybersecurity and Infrastructure Security"
     },
     {
-      "title_zh": "Cloudflare Opens Quicksilver to Customers as Workers KV Instant, Inside a 1 MB Envelope",
-      "title_en": "Cloudflare Opens Quicksilver to Customers as Workers KV Instant, Inside a 1 MB Envelope",
-      "url": "https://www.infoq.com/news/2026/10/workers-kv-instant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-10-28 08:57 UTC",
-      "summary_zh": "Cloudflare has put Quicksilver, the internal key-v"
-    },
-    {
-      "title_zh": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
-      "title_en": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
-      "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
-      "source": "The Verge",
-      "published_at": "2026-10-29 02:22 UTC",
-      "summary_zh": "On Tuesday, defense contractor Anduril and chipmak"
+      "title_zh": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+      "title_en": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "source": "Hacker News",
+      "published_at": "2026-10-29 10:42 UTC",
+      "summary_zh": "Article URL: https://dreamgroup.com/blog/chained-p"
     },
     {
       "title_zh": "Gemini 4 Carbon",
@@ -34,38 +26,46 @@
       "summary_zh": "Article URL: https://blog.google/innovation-and-ai"
     },
     {
-      "title_zh": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "title_en": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
-      "source": "Hacker News",
-      "published_at": "2026-10-27 19:55 UTC",
-      "summary_zh": "Article URL: https://www.brangus.io/survival-llm C"
+      "title_zh": "Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks",
+      "title_en": "Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks",
+      "url": "https://www.infoq.com/news/2026/10/google-dpop-oauth2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-10-29 19:00 UTC",
+      "summary_zh": "Google's OAuth Platform has recently introduces su"
+    },
+    {
+      "title_zh": "How to Make Artificial Intelligence More Environmentally Sustainable",
+      "title_en": "How to Make Artificial Intelligence More Environmentally Sustainable",
+      "url": "https://www.infoq.com/news/2026/10/AI-environmentally-sustainable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-10-29 11:41 UTC",
+      "summary_zh": "IT is responsible for about 2 - 4% of all global e"
     }
   ],
   "public_articles": [
     {
-      "title_zh": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-      "title_en": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+      "title_zh": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+      "title_en": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
       "source": "BleepingComputer",
-      "published_at": "2026-10-28 14:00 UTC",
-      "summary_zh": "Attackers are actively exploiting vulnerabilities "
+      "published_at": "2026-10-29 11:10 UTC",
+      "summary_zh": "Cisco released security updates to patch a denial-"
     },
     {
-      "title_zh": "Even after PHP2Shell, blast radius matters more than a CVSS score",
-      "title_en": "Even after PHP2Shell, blast radius matters more than a CVSS score",
-      "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+      "title_zh": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      "title_en": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
       "source": "BleepingComputer",
-      "published_at": "2026-10-28 13:50 UTC",
-      "summary_zh": "PHP2Shell shows how quickly attackers can exploit "
+      "published_at": "2026-10-29 22:09 UTC",
+      "summary_zh": "A crypto-mining campaign abusing Hugging Face mode"
     },
     {
-      "title_zh": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-      "title_en": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+      "title_zh": "Japan Airlines suffers third-party data breach exposing passenger info",
+      "title_en": "Japan Airlines suffers third-party data breach exposing passenger info",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
       "source": "BleepingComputer",
-      "published_at": "2026-10-28 10:46 UTC",
-      "summary_zh": "On Tuesday, the US Cybersecurity and Infrastructur"
+      "published_at": "2026-10-29 22:08 UTC",
+      "summary_zh": "Japan Airlines (JAL) has announced that a data bre"
     }
   ]
 }
