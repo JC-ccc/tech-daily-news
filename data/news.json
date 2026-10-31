@@ -1,71 +1,71 @@
 {
-  "updated_at": "2026-10-30 12:37:02 (UTC+8)",
+  "updated_at": "2026-10-31 12:20:48 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
-      "title_en": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-29 13:59 UTC",
-      "summary_zh": "The U.S. Cybersecurity and Infrastructure Security"
-    },
-    {
-      "title_zh": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
-      "title_en": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
-      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-      "source": "Hacker News",
-      "published_at": "2026-10-29 10:42 UTC",
-      "summary_zh": "Article URL: https://dreamgroup.com/blog/chained-p"
-    },
-    {
-      "title_zh": "Gemini 4 Carbon",
-      "title_en": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "source": "Hacker News",
-      "published_at": "2026-10-28 17:01 UTC",
-      "summary_zh": "Article URL: https://blog.google/innovation-and-ai"
-    },
-    {
-      "title_zh": "Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks",
-      "title_en": "Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks",
-      "url": "https://www.infoq.com/news/2026/10/google-dpop-oauth2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "DoorDash Cuts Grocery Reorder Latency from 16 to 2 Seconds with AI Agents",
+      "title_en": "DoorDash Cuts Grocery Reorder Latency from 16 to 2 Seconds with AI Agents",
+      "url": "https://www.infoq.com/news/2026/10/doordash-ai-grocery-reorder/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-10-29 19:00 UTC",
-      "summary_zh": "Google's OAuth Platform has recently introduces su"
+      "published_at": "2026-10-30 13:31 UTC",
+      "summary_zh": "DoorDash reduced grocery reorder latency from 16 t"
     },
     {
-      "title_zh": "How to Make Artificial Intelligence More Environmentally Sustainable",
-      "title_en": "How to Make Artificial Intelligence More Environmentally Sustainable",
-      "url": "https://www.infoq.com/news/2026/10/AI-environmentally-sustainable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "title_en": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "source": "The Verge",
+      "published_at": "2026-10-30 18:21 UTC",
+      "summary_zh": "Google's AI chip-equipped satellite has generated "
+    },
+    {
+      "title_zh": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "title_en": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+      "source": "Hacker News",
+      "published_at": "2026-10-30 12:08 UTC",
+      "summary_zh": "Article URL: https://progressives.house.gov/2026/1"
+    },
+    {
+      "title_zh": "Article: InfoQ AI, ML and Data Engineering Trends Report - 2026",
+      "title_en": "Article: InfoQ AI, ML and Data Engineering Trends Report - 2026",
+      "url": "https://www.infoq.com/articles/ai-ml-data-engineering-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-10-29 11:41 UTC",
-      "summary_zh": "IT is responsible for about 2 - 4% of all global e"
+      "published_at": "2026-10-30 09:00 UTC",
+      "summary_zh": "This InfoQ Trends Report offers readers a comprehe"
+    },
+    {
+      "title_zh": "Podcast: AI, ML, and Data Engineering InfoQ Trends Report 2026",
+      "title_en": "Podcast: AI, ML, and Data Engineering InfoQ Trends Report 2026",
+      "url": "https://www.infoq.com/podcasts/ai-ml-data-engineering-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-10-30 09:00 UTC",
+      "summary_zh": "In this episode, members of the InfoQ AI and ML ed"
     }
   ],
   "public_articles": [
     {
-      "title_zh": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-      "title_en": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+      "title_zh": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+      "title_en": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
       "source": "BleepingComputer",
-      "published_at": "2026-10-29 11:10 UTC",
-      "summary_zh": "Cisco released security updates to patch a denial-"
+      "published_at": "2026-10-30 21:09 UTC",
+      "summary_zh": "Security researchers at Anthropic have developed a"
     },
     {
-      "title_zh": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-      "title_en": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+      "title_zh": "CISA says max severity GitLab flaw now exploited in the wild",
+      "title_en": "CISA says max severity GitLab flaw now exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
       "source": "BleepingComputer",
-      "published_at": "2026-10-29 22:09 UTC",
-      "summary_zh": "A crypto-mining campaign abusing Hugging Face mode"
+      "published_at": "2026-10-30 13:00 UTC",
+      "summary_zh": "Attackers have started exploiting a maximum-severi"
     },
     {
-      "title_zh": "Japan Airlines suffers third-party data breach exposing passenger info",
-      "title_en": "Japan Airlines suffers third-party data breach exposing passenger info",
-      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+      "title_zh": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+      "title_en": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
       "source": "BleepingComputer",
-      "published_at": "2026-10-29 22:08 UTC",
-      "summary_zh": "Japan Airlines (JAL) has announced that a data bre"
+      "published_at": "2026-10-30 10:16 UTC",
+      "summary_zh": "Drupal warned admins to patch a critical access by"
     }
   ]
 }
