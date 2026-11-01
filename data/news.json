@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-10-31 12:20:48 (UTC+8)",
+  "updated_at": "2026-11-01 12:39:47 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "DoorDash Cuts Grocery Reorder Latency from 16 to 2 Seconds with AI Agents",
-      "title_en": "DoorDash Cuts Grocery Reorder Latency from 16 to 2 Seconds with AI Agents",
-      "url": "https://www.infoq.com/news/2026/10/doordash-ai-grocery-reorder/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Cloudflare’s Post-Quantum GeoKey Manager Enters Closed Beta Without Attribute-Based Encryption",
+      "title_en": "Cloudflare’s Post-Quantum GeoKey Manager Enters Closed Beta Without Attribute-Based Encryption",
+      "url": "https://www.infoq.com/news/2026/10/cf-pq-geokey-manager/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-10-30 13:31 UTC",
-      "summary_zh": "DoorDash reduced grocery reorder latency from 16 t"
+      "published_at": "2026-10-31 19:56 UTC",
+      "summary_zh": "Cloudflare has moved a post-quantum rebuild of Geo"
     },
     {
-      "title_zh": "Google&#8217;s satellite AI server transmits its first response to Earth",
-      "title_en": "Google&#8217;s satellite AI server transmits its first response to Earth",
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "source": "The Verge",
-      "published_at": "2026-10-30 18:21 UTC",
-      "summary_zh": "Google's AI chip-equipped satellite has generated "
-    },
-    {
-      "title_zh": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-      "title_en": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-      "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+      "title_zh": "Malware uses LLMs to rank victims by how much they're worth",
+      "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
       "source": "Hacker News",
-      "published_at": "2026-10-30 12:08 UTC",
-      "summary_zh": "Article URL: https://progressives.house.gov/2026/1"
+      "published_at": "2026-10-31 14:29 UTC",
+      "summary_zh": "Article URL: https://blog.talosintelligence.com/ap"
     },
     {
-      "title_zh": "Article: InfoQ AI, ML and Data Engineering Trends Report - 2026",
-      "title_en": "Article: InfoQ AI, ML and Data Engineering Trends Report - 2026",
-      "url": "https://www.infoq.com/articles/ai-ml-data-engineering-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Spring News Roundup: First Release Candidates of Boot, Framework, Data, Security, Modulith, AI",
+      "title_en": "Spring News Roundup: First Release Candidates of Boot, Framework, Data, Security, Modulith, AI",
+      "url": "https://www.infoq.com/news/2026/10/spring-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-10-30 09:00 UTC",
-      "summary_zh": "This InfoQ Trends Report offers readers a comprehe"
+      "published_at": "2026-10-31 13:30 UTC",
+      "summary_zh": "There was a flurry of activity during the week of "
     },
     {
-      "title_zh": "Podcast: AI, ML, and Data Engineering InfoQ Trends Report 2026",
-      "title_en": "Podcast: AI, ML, and Data Engineering InfoQ Trends Report 2026",
-      "url": "https://www.infoq.com/podcasts/ai-ml-data-engineering-trends-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Kubernetes Confidential Containers Get Fortanix Attestation and Key Management",
+      "title_en": "Kubernetes Confidential Containers Get Fortanix Attestation and Key Management",
+      "url": "https://www.infoq.com/news/2026/10/k8s-confidential-containers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-10-30 09:00 UTC",
-      "summary_zh": "In this episode, members of the InfoQ AI and ML ed"
+      "published_at": "2026-10-31 08:18 UTC",
+      "summary_zh": "Fortanix's CoCo integration connects workload atte"
+    },
+    {
+      "title_zh": "Google Discloses PageBreak AI Security Agent That Found 500+ XSS Bugs",
+      "title_en": "Google Discloses PageBreak AI Security Agent That Found 500+ XSS Bugs",
+      "url": "https://www.infoq.com/news/2026/10/google-pagebreak-security-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-10-31 06:20 UTC",
+      "summary_zh": "According to a paper published by Google, its AI-p"
     }
   ],
   "public_articles": [
@@ -52,20 +52,20 @@
       "summary_zh": "Security researchers at Anthropic have developed a"
     },
     {
-      "title_zh": "CISA says max severity GitLab flaw now exploited in the wild",
-      "title_en": "CISA says max severity GitLab flaw now exploited in the wild",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-30 13:00 UTC",
-      "summary_zh": "Attackers have started exploiting a maximum-severi"
+      "title_zh": "Tell HN: Scribd Breached",
+      "title_en": "Tell HN: Scribd Breached",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "source": "Hacker News",
+      "published_at": "2026-10-31 02:46 UTC",
+      "summary_zh": "Not seeing anything posted about this anywhere, re"
     },
     {
-      "title_zh": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-      "title_en": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+      "title_zh": "New Android SMS of Death exploit can remotely crash unpatched phones",
+      "title_en": "New Android SMS of Death exploit can remotely crash unpatched phones",
+      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
       "source": "BleepingComputer",
-      "published_at": "2026-10-30 10:16 UTC",
-      "summary_zh": "Drupal warned admins to patch a critical access by"
+      "published_at": "2026-10-31 15:35 UTC",
+      "summary_zh": "A security researcher has released a proof-of-conc"
     }
   ]
 }
