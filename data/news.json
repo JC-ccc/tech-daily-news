@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-01 12:39:47 (UTC+8)",
+  "updated_at": "2026-11-02 12:41:42 (UTC+8)",
   "core_articles": [
+    {
+      "title_zh": "File Mover Express: AWS Releases Open-Source Tool for S3 File Transfers",
+      "title_en": "File Mover Express: AWS Releases Open-Source Tool for S3 File Transfers",
+      "url": "https://www.infoq.com/news/2026/11/aws-s3-file-transfer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-01 06:32 UTC",
+      "summary_zh": "AWS has recently released File Mover Express, an o"
+    },
     {
       "title_zh": "Cloudflare’s Post-Quantum GeoKey Manager Enters Closed Beta Without Attribute-Based Encryption",
       "title_en": "Cloudflare’s Post-Quantum GeoKey Manager Enters Closed Beta Without Attribute-Based Encryption",
@@ -10,62 +18,54 @@
       "summary_zh": "Cloudflare has moved a post-quantum rebuild of Geo"
     },
     {
-      "title_zh": "Malware uses LLMs to rank victims by how much they're worth",
-      "title_en": "Malware uses LLMs to rank victims by how much they're worth",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "title_zh": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "title_en": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+      "source": "The Verge",
+      "published_at": "2026-11-01 14:00 UTC",
+      "summary_zh": "When I first heard about the new $149 HomePod Mini"
+    },
+    {
+      "title_zh": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "title_en": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
       "source": "Hacker News",
-      "published_at": "2026-10-31 14:29 UTC",
-      "summary_zh": "Article URL: https://blog.talosintelligence.com/ap"
+      "published_at": "2026-10-31 22:46 UTC",
+      "summary_zh": "Article URL: https://github.com/guregodevo/memdoor"
     },
     {
-      "title_zh": "Spring News Roundup: First Release Candidates of Boot, Framework, Data, Security, Modulith, AI",
-      "title_en": "Spring News Roundup: First Release Candidates of Boot, Framework, Data, Security, Modulith, AI",
-      "url": "https://www.infoq.com/news/2026/10/spring-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "AWS Capacity Largely Sold Out Through 2027, With On Demand Headroom Reserved",
+      "title_en": "AWS Capacity Largely Sold Out Through 2027, With On Demand Headroom Reserved",
+      "url": "https://www.infoq.com/news/2026/11/aws-capacity-sold-out/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-10-31 13:30 UTC",
-      "summary_zh": "There was a flurry of activity during the week of "
-    },
-    {
-      "title_zh": "Kubernetes Confidential Containers Get Fortanix Attestation and Key Management",
-      "title_en": "Kubernetes Confidential Containers Get Fortanix Attestation and Key Management",
-      "url": "https://www.infoq.com/news/2026/10/k8s-confidential-containers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-10-31 08:18 UTC",
-      "summary_zh": "Fortanix's CoCo integration connects workload atte"
-    },
-    {
-      "title_zh": "Google Discloses PageBreak AI Security Agent That Found 500+ XSS Bugs",
-      "title_en": "Google Discloses PageBreak AI Security Agent That Found 500+ XSS Bugs",
-      "url": "https://www.infoq.com/news/2026/10/google-pagebreak-security-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-10-31 06:20 UTC",
-      "summary_zh": "According to a paper published by Google, its AI-p"
+      "published_at": "2026-11-01 08:03 UTC",
+      "summary_zh": "Amazon CEO Andy Jassy says AWS’s large committed c"
     }
   ],
   "public_articles": [
     {
-      "title_zh": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-      "title_en": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+      "title_zh": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+      "title_en": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
       "source": "BleepingComputer",
-      "published_at": "2026-10-30 21:09 UTC",
-      "summary_zh": "Security researchers at Anthropic have developed a"
+      "published_at": "2026-11-01 15:11 UTC",
+      "summary_zh": "Hackers attempted to exploit a critical GitLab vul"
     },
     {
-      "title_zh": "Tell HN: Scribd Breached",
-      "title_en": "Tell HN: Scribd Breached",
-      "url": "https://news.ycombinator.com/item?id=50312756",
+      "title_zh": "Frontier Airlines Likely Breached",
+      "title_en": "Frontier Airlines Likely Breached",
+      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
       "source": "Hacker News",
-      "published_at": "2026-10-31 02:46 UTC",
-      "summary_zh": "Not seeing anything posted about this anywhere, re"
+      "published_at": "2026-11-01 16:46 UTC",
+      "summary_zh": "Article URL: https://www.reddit.com/r/frontierairl"
     },
     {
-      "title_zh": "New Android SMS of Death exploit can remotely crash unpatched phones",
-      "title_en": "New Android SMS of Death exploit can remotely crash unpatched phones",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-31 15:35 UTC",
-      "summary_zh": "A security researcher has released a proof-of-conc"
+      "title_zh": "Ask HN: Which TV do you recommend for privacy?",
+      "title_en": "Ask HN: Which TV do you recommend for privacy?",
+      "url": "https://news.ycombinator.com/item?id=50328896",
+      "source": "Hacker News",
+      "published_at": "2026-11-01 19:35 UTC",
+      "summary_zh": "I haven’t owned a TV in years and would like one t"
     }
   ]
 }
