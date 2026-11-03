@@ -1,63 +1,37 @@
 {
-  "updated_at": "2026-11-02 12:41:42 (UTC+8)",
+  "updated_at": "2026-11-03 13:32:06 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "File Mover Express: AWS Releases Open-Source Tool for S3 File Transfers",
-      "title_en": "File Mover Express: AWS Releases Open-Source Tool for S3 File Transfers",
-      "url": "https://www.infoq.com/news/2026/11/aws-s3-file-transfer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-11-01 06:32 UTC",
-      "summary_zh": "AWS has recently released File Mover Express, an o"
-    },
-    {
-      "title_zh": "Cloudflare’s Post-Quantum GeoKey Manager Enters Closed Beta Without Attribute-Based Encryption",
-      "title_en": "Cloudflare’s Post-Quantum GeoKey Manager Enters Closed Beta Without Attribute-Based Encryption",
-      "url": "https://www.infoq.com/news/2026/10/cf-pq-geokey-manager/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-10-31 19:56 UTC",
-      "summary_zh": "Cloudflare has moved a post-quantum rebuild of Geo"
-    },
-    {
-      "title_zh": "HomePod Mini 2 first look: Three things I love and one disappointment",
-      "title_en": "HomePod Mini 2 first look: Three things I love and one disappointment",
-      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-      "source": "The Verge",
-      "published_at": "2026-11-01 14:00 UTC",
-      "summary_zh": "When I first heard about the new $149 HomePod Mini"
-    },
-    {
-      "title_zh": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "title_en": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "title_zh": "Show HN: Subvocal – Talk to your computer without making noise",
+      "title_en": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
       "source": "Hacker News",
-      "published_at": "2026-10-31 22:46 UTC",
-      "summary_zh": "Article URL: https://github.com/guregodevo/memdoor"
+      "published_at": "2026-11-02 17:16 UTC",
+      "summary_zh": "Hi HN, we're Aarush and Arnav from The Subvocal Co"
     },
     {
-      "title_zh": "AWS Capacity Largely Sold Out Through 2027, With On Demand Headroom Reserved",
-      "title_en": "AWS Capacity Largely Sold Out Through 2027, With On Demand Headroom Reserved",
-      "url": "https://www.infoq.com/news/2026/11/aws-capacity-sold-out/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-11-01 08:03 UTC",
-      "summary_zh": "Amazon CEO Andy Jassy says AWS’s large committed c"
-    }
-  ],
-  "public_articles": [
-    {
-      "title_zh": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-      "title_en": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-01 15:11 UTC",
-      "summary_zh": "Hackers attempted to exploit a critical GitLab vul"
-    },
-    {
-      "title_zh": "Frontier Airlines Likely Breached",
-      "title_en": "Frontier Airlines Likely Breached",
-      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "title_zh": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+      "title_en": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
       "source": "Hacker News",
-      "published_at": "2026-11-01 16:46 UTC",
-      "summary_zh": "Article URL: https://www.reddit.com/r/frontierairl"
+      "published_at": "2026-11-02 16:25 UTC",
+      "summary_zh": "Explore central Warsaw in voxels - slightly inspir"
+    },
+    {
+      "title_zh": "Show HN: I've updated my Linux System Call website and API",
+      "title_en": "Show HN: I've updated my Linux System Call website and API",
+      "url": "https://syscall.sh/",
+      "source": "Hacker News",
+      "published_at": "2026-11-02 09:29 UTC",
+      "summary_zh": "I first released those in back in 2020 and now I f"
+    },
+    {
+      "title_zh": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "title_en": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "source": "Hacker News",
+      "published_at": "2026-11-02 18:39 UTC",
+      "summary_zh": "Article URL: https://freenode.net/article/ubuntu-l"
     },
     {
       "title_zh": "Ask HN: Which TV do you recommend for privacy?",
@@ -66,6 +40,32 @@
       "source": "Hacker News",
       "published_at": "2026-11-01 19:35 UTC",
       "summary_zh": "I haven’t owned a TV in years and would like one t"
+    }
+  ],
+  "public_articles": [
+    {
+      "title_zh": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "title_en": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-02 19:00 UTC",
+      "summary_zh": "Financial technology company Abrigo has restored i"
+    },
+    {
+      "title_zh": "Your Mobile Carrier Stores Your Call Logs for Years",
+      "title_en": "Your Mobile Carrier Stores Your Call Logs for Years",
+      "url": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-02 15:01 UTC",
+      "summary_zh": "Mobile carriers can retain years of call and text "
+    },
+    {
+      "title_zh": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+      "title_en": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-02 12:47 UTC",
+      "summary_zh": "Over 1,000 Internet-exposed GitLab servers are sti"
     }
   ]
 }
