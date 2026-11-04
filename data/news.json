@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-03 13:32:06 (UTC+8)",
+  "updated_at": "2026-11-04 13:00:52 (UTC+8)",
   "core_articles": [
+    {
+      "title_zh": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+      "title_en": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+      "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-03 18:51 UTC",
+      "summary_zh": "Large language model hijacking attacks, also known"
+    },
     {
       "title_zh": "Show HN: Subvocal – Talk to your computer without making noise",
       "title_en": "Show HN: Subvocal – Talk to your computer without making noise",
@@ -10,20 +18,12 @@
       "summary_zh": "Hi HN, we're Aarush and Arnav from The Subvocal Co"
     },
     {
-      "title_zh": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
-      "title_en": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
-      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "title_zh": "Google will turn off search for schools that reject AI",
+      "title_en": "Google will turn off search for schools that reject AI",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
       "source": "Hacker News",
-      "published_at": "2026-11-02 16:25 UTC",
-      "summary_zh": "Explore central Warsaw in voxels - slightly inspir"
-    },
-    {
-      "title_zh": "Show HN: I've updated my Linux System Call website and API",
-      "title_en": "Show HN: I've updated my Linux System Call website and API",
-      "url": "https://syscall.sh/",
-      "source": "Hacker News",
-      "published_at": "2026-11-02 09:29 UTC",
-      "summary_zh": "I first released those in back in 2020 and now I f"
+      "published_at": "2026-11-03 15:25 UTC",
+      "summary_zh": "https://archive.ph/RuwsBhttps://blog.google/produc"
     },
     {
       "title_zh": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
@@ -34,38 +34,38 @@
       "summary_zh": "Article URL: https://freenode.net/article/ubuntu-l"
     },
     {
-      "title_zh": "Ask HN: Which TV do you recommend for privacy?",
-      "title_en": "Ask HN: Which TV do you recommend for privacy?",
-      "url": "https://news.ycombinator.com/item?id=50328896",
-      "source": "Hacker News",
-      "published_at": "2026-11-01 19:35 UTC",
-      "summary_zh": "I haven’t owned a TV in years and would like one t"
+      "title_zh": "Vitest 5: Prioritises Performance with a Shared Vite Server, Trace View, and Stricter Test Defaults",
+      "title_en": "Vitest 5: Prioritises Performance with a Shared Vite Server, Trace View, and Stricter Test Defaults",
+      "url": "https://www.infoq.com/news/2026/11/vite-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-03 16:47 UTC",
+      "summary_zh": "Vitest 5.0 focuses on speed, with reported gains o"
     }
   ],
   "public_articles": [
     {
-      "title_zh": "Fintech platform Sageworks taken offline after suspected cyberattack",
-      "title_en": "Fintech platform Sageworks taken offline after suspected cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-02 19:00 UTC",
-      "summary_zh": "Financial technology company Abrigo has restored i"
+      "title_zh": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "title_en": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "source": "Hacker News",
+      "published_at": "2026-11-03 14:53 UTC",
+      "summary_zh": "My company is pretty paranoid about leaking IP to "
     },
     {
-      "title_zh": "Your Mobile Carrier Stores Your Call Logs for Years",
-      "title_en": "Your Mobile Carrier Stores Your Call Logs for Years",
-      "url": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+      "title_zh": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+      "title_en": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-02 15:01 UTC",
-      "summary_zh": "Mobile carriers can retain years of call and text "
+      "published_at": "2026-11-03 22:18 UTC",
+      "summary_zh": "Attackers have compromised the update infrastructu"
     },
     {
-      "title_zh": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
-      "title_en": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+      "title_zh": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+      "title_en": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-02 12:47 UTC",
-      "summary_zh": "Over 1,000 Internet-exposed GitLab servers are sti"
+      "published_at": "2026-11-03 21:28 UTC",
+      "summary_zh": "Developer platform WorkOS suffered a data breach a"
     }
   ]
 }
