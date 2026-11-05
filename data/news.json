@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-04 13:00:52 (UTC+8)",
+  "updated_at": "2026-11-05 13:23:46 (UTC+8)",
   "core_articles": [
+    {
+      "title_zh": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+      "title_en": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-04 15:00 UTC",
+      "summary_zh": "A phishing campaign used Google Calendar invites, "
+    },
     {
       "title_zh": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
       "title_en": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
@@ -10,62 +18,54 @@
       "summary_zh": "Large language model hijacking attacks, also known"
     },
     {
-      "title_zh": "Show HN: Subvocal – Talk to your computer without making noise",
-      "title_en": "Show HN: Subvocal – Talk to your computer without making noise",
-      "url": "https://news.ycombinator.com/item?id=50340088",
-      "source": "Hacker News",
-      "published_at": "2026-11-02 17:16 UTC",
-      "summary_zh": "Hi HN, we're Aarush and Arnav from The Subvocal Co"
-    },
-    {
-      "title_zh": "Google will turn off search for schools that reject AI",
-      "title_en": "Google will turn off search for schools that reject AI",
-      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "source": "Hacker News",
-      "published_at": "2026-11-03 15:25 UTC",
-      "summary_zh": "https://archive.ph/RuwsBhttps://blog.google/produc"
-    },
-    {
-      "title_zh": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-      "title_en": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-      "source": "Hacker News",
-      "published_at": "2026-11-02 18:39 UTC",
-      "summary_zh": "Article URL: https://freenode.net/article/ubuntu-l"
-    },
-    {
-      "title_zh": "Vitest 5: Prioritises Performance with a Shared Vite Server, Trace View, and Stricter Test Defaults",
-      "title_en": "Vitest 5: Prioritises Performance with a Shared Vite Server, Trace View, and Stricter Test Defaults",
-      "url": "https://www.infoq.com/news/2026/11/vite-5-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Presentation: Panel: Who Builds the Frontend Now? (And What Breaks When They Do)",
+      "title_en": "Presentation: Panel: Who Builds the Frontend Now? (And What Breaks When They Do)",
+      "url": "https://www.infoq.com/presentations/panel-ai-frontend-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-03 16:47 UTC",
-      "summary_zh": "Vitest 5.0 focuses on speed, with reported gains o"
+      "published_at": "2026-11-04 11:00 UTC",
+      "summary_zh": "The panelists explain how AI tools and vibe coding"
+    },
+    {
+      "title_zh": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "title_en": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "source": "Hacker News",
+      "published_at": "2026-11-04 10:23 UTC",
+      "summary_zh": "Article URL: https://www.theguardian.com/uk-news/2"
+    },
+    {
+      "title_zh": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "title_en": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "source": "Hacker News",
+      "published_at": "2026-11-04 10:10 UTC",
+      "summary_zh": "If you have a personal Google AI subscription, all"
     }
   ],
   "public_articles": [
     {
-      "title_zh": "OpenAI seems to be silently re-enabling model training on Codex chats",
-      "title_en": "OpenAI seems to be silently re-enabling model training on Codex chats",
-      "url": "https://news.ycombinator.com/item?id=50352757",
-      "source": "Hacker News",
-      "published_at": "2026-11-03 14:53 UTC",
-      "summary_zh": "My company is pretty paranoid about leaking IP to "
+      "title_zh": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+      "title_en": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-04 12:11 UTC",
+      "summary_zh": "The US Cybersecurity and Infrastructure Security A"
     },
     {
-      "title_zh": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-      "title_en": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+      "title_zh": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "title_en": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-03 22:18 UTC",
-      "summary_zh": "Attackers have compromised the update infrastructu"
+      "published_at": "2026-11-04 20:58 UTC",
+      "summary_zh": "Zyxel has patched a zero-day vulnerability in its "
     },
     {
-      "title_zh": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-      "title_en": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+      "title_zh": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "title_en": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-03 21:28 UTC",
-      "summary_zh": "Developer platform WorkOS suffered a data breach a"
+      "published_at": "2026-11-04 19:05 UTC",
+      "summary_zh": "DreamHost is warning of a data breach after attack"
     }
   ]
 }
