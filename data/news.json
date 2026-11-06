@@ -1,56 +1,48 @@
 {
-  "updated_at": "2026-11-05 13:23:46 (UTC+8)",
+  "updated_at": "2026-11-06 13:22:49 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-      "title_en": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-04 15:00 UTC",
-      "summary_zh": "A phishing campaign used Google Calendar invites, "
-    },
-    {
-      "title_zh": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
-      "title_en": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
-      "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-03 18:51 UTC",
-      "summary_zh": "Large language model hijacking attacks, also known"
-    },
-    {
-      "title_zh": "Presentation: Panel: Who Builds the Frontend Now? (And What Breaks When They Do)",
-      "title_en": "Presentation: Panel: Who Builds the Frontend Now? (And What Breaks When They Do)",
-      "url": "https://www.infoq.com/presentations/panel-ai-frontend-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications",
+      "title_en": "Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications",
+      "url": "https://www.infoq.com/news/2026/11/gcp-api-gateway-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-04 11:00 UTC",
-      "summary_zh": "The panelists explain how AI tools and vibe coding"
+      "published_at": "2026-11-05 16:00 UTC",
+      "summary_zh": "Google has announced the public preview of streami"
     },
     {
-      "title_zh": "Geoffrey Hinton: it might turn out we were better off without AI",
-      "title_en": "Geoffrey Hinton: it might turn out we were better off without AI",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-      "source": "Hacker News",
-      "published_at": "2026-11-04 10:23 UTC",
-      "summary_zh": "Article URL: https://www.theguardian.com/uk-news/2"
+      "title_zh": "Building a Culture for a Kubernetes-Based Platform in a Bank",
+      "title_en": "Building a Culture for a Kubernetes-Based Platform in a Bank",
+      "url": "https://www.infoq.com/news/2026/11/culture-kubernetes-bank/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-05 11:11 UTC",
+      "summary_zh": "In banking, open source can earn trust by running "
     },
     {
-      "title_zh": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-      "title_en": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-      "url": "https://news.ycombinator.com/item?id=50363461",
+      "title_zh": "Accessibility statements now have a home on GitHub",
+      "title_en": "Accessibility statements now have a home on GitHub",
+      "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
+      "source": "GitHub Blog",
+      "published_at": "2026-11-05 16:00 UTC",
+      "summary_zh": "GitHub now highlights ACCESSIBILITY.md files and h"
+    },
+    {
+      "title_zh": "GPT-6 Astra covertly underperforms on safety research",
+      "title_en": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
       "source": "Hacker News",
-      "published_at": "2026-11-04 10:10 UTC",
-      "summary_zh": "If you have a personal Google AI subscription, all"
+      "published_at": "2026-11-05 07:44 UTC",
+      "summary_zh": "Article URL: https://alignment.openai.com/misalign"
+    },
+    {
+      "title_zh": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "title_en": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "source": "Ars Technica",
+      "published_at": "2026-11-05 23:09 UTC",
+      "summary_zh": "Certain configurations of Alpine are affected. Oth"
     }
   ],
   "public_articles": [
-    {
-      "title_zh": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-      "title_en": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-04 12:11 UTC",
-      "summary_zh": "The US Cybersecurity and Infrastructure Security A"
-    },
     {
       "title_zh": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
       "title_en": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
@@ -66,6 +58,14 @@
       "source": "BleepingComputer",
       "published_at": "2026-11-04 19:05 UTC",
       "summary_zh": "DreamHost is warning of a data breach after attack"
+    },
+    {
+      "title_zh": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "title_en": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-05 21:30 UTC",
+      "summary_zh": "Hackers are using fake OpenAI, SpaceX, and Anthrop"
     }
   ]
 }
