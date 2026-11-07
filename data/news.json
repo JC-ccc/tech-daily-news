@@ -1,37 +1,37 @@
 {
-  "updated_at": "2026-11-06 13:22:49 (UTC+8)",
+  "updated_at": "2026-11-07 12:51:09 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications",
-      "title_en": "Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications",
-      "url": "https://www.infoq.com/news/2026/11/gcp-api-gateway-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Yelp Combines Native and Server-Driven UI for Its AI Assistant",
+      "title_en": "Yelp Combines Native and Server-Driven UI for Its AI Assistant",
+      "url": "https://www.infoq.com/news/2026/11/yelp-assistant-hybrid-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-05 16:00 UTC",
-      "summary_zh": "Google has announced the public preview of streami"
+      "published_at": "2026-11-06 14:25 UTC",
+      "summary_zh": "Yelp combines native mobile controls with server-d"
     },
     {
-      "title_zh": "Building a Culture for a Kubernetes-Based Platform in a Bank",
-      "title_en": "Building a Culture for a Kubernetes-Based Platform in a Bank",
-      "url": "https://www.infoq.com/news/2026/11/culture-kubernetes-bank/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Article: Identity as an Architectural Concern: Enterprise IAM Beyond Authentication",
+      "title_en": "Article: Identity as an Architectural Concern: Enterprise IAM Beyond Authentication",
+      "url": "https://www.infoq.com/articles/identity-as-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-05 11:11 UTC",
-      "summary_zh": "In banking, open source can earn trust by running "
+      "published_at": "2026-11-06 09:00 UTC",
+      "summary_zh": "The way you design your identities will drive your"
     },
     {
-      "title_zh": "Accessibility statements now have a home on GitHub",
-      "title_en": "Accessibility statements now have a home on GitHub",
-      "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
-      "source": "GitHub Blog",
-      "published_at": "2026-11-05 16:00 UTC",
-      "summary_zh": "GitHub now highlights ACCESSIBILITY.md files and h"
+      "title_zh": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "title_en": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-06 20:24 UTC",
+      "summary_zh": "OpenAI has revealed GPT-6 Cyber, a new artificial "
     },
     {
-      "title_zh": "GPT-6 Astra covertly underperforms on safety research",
-      "title_en": "GPT-6 Astra covertly underperforms on safety research",
-      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "title_zh": "Gemini Omni 1.2 Flash",
+      "title_en": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "source": "Hacker News",
-      "published_at": "2026-11-05 07:44 UTC",
-      "summary_zh": "Article URL: https://alignment.openai.com/misalign"
+      "published_at": "2026-11-06 13:35 UTC",
+      "summary_zh": "Article URL: https://blog.google/innovation-and-ai"
     },
     {
       "title_zh": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
@@ -44,28 +44,28 @@
   ],
   "public_articles": [
     {
-      "title_zh": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "title_en": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "title_zh": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+      "title_en": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-04 20:58 UTC",
-      "summary_zh": "Zyxel has patched a zero-day vulnerability in its "
+      "published_at": "2026-11-06 17:04 UTC",
+      "summary_zh": "QNAP urges users to update Plex Media Server to th"
     },
     {
-      "title_zh": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "title_en": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "title_zh": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "title_en": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-04 19:05 UTC",
-      "summary_zh": "DreamHost is warning of a data breach after attack"
+      "published_at": "2026-11-07 00:00 UTC",
+      "summary_zh": "SonicWall has released security updates to fix sev"
     },
     {
-      "title_zh": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
-      "title_en": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+      "title_zh": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "title_en": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-05 21:30 UTC",
-      "summary_zh": "Hackers are using fake OpenAI, SpaceX, and Anthrop"
+      "published_at": "2026-11-06 22:27 UTC",
+      "summary_zh": "WorkOS says an AI-powered hacking agent that breac"
     }
   ]
 }
