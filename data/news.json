@@ -1,22 +1,6 @@
 {
-  "updated_at": "2026-11-07 12:51:09 (UTC+8)",
+  "updated_at": "2026-11-08 12:43:29 (UTC+8)",
   "core_articles": [
-    {
-      "title_zh": "Yelp Combines Native and Server-Driven UI for Its AI Assistant",
-      "title_en": "Yelp Combines Native and Server-Driven UI for Its AI Assistant",
-      "url": "https://www.infoq.com/news/2026/11/yelp-assistant-hybrid-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-11-06 14:25 UTC",
-      "summary_zh": "Yelp combines native mobile controls with server-d"
-    },
-    {
-      "title_zh": "Article: Identity as an Architectural Concern: Enterprise IAM Beyond Authentication",
-      "title_en": "Article: Identity as an Architectural Concern: Enterprise IAM Beyond Authentication",
-      "url": "https://www.infoq.com/articles/identity-as-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-11-06 09:00 UTC",
-      "summary_zh": "The way you design your identities will drive your"
-    },
     {
       "title_zh": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
       "title_en": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
@@ -26,20 +10,36 @@
       "summary_zh": "OpenAI has revealed GPT-6 Cyber, a new artificial "
     },
     {
-      "title_zh": "Gemini Omni 1.2 Flash",
-      "title_en": "Gemini Omni 1.2 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "source": "Hacker News",
-      "published_at": "2026-11-06 13:35 UTC",
-      "summary_zh": "Article URL: https://blog.google/innovation-and-ai"
+      "title_zh": "Beyond code generation: A developer’s guide to agentic engineering",
+      "title_en": "Beyond code generation: A developer’s guide to agentic engineering",
+      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+      "source": "GitHub Blog",
+      "published_at": "2026-11-06 22:15 UTC",
+      "summary_zh": "Writing code got faster. The work around it didn't"
     },
     {
-      "title_zh": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "title_en": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-      "source": "Ars Technica",
-      "published_at": "2026-11-05 23:09 UTC",
-      "summary_zh": "Certain configurations of Alpine are affected. Oth"
+      "title_zh": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+      "title_en": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+      "source": "The Verge",
+      "published_at": "2026-11-07 16:00 UTC",
+      "summary_zh": "Twenty-five years ago, Kevin Lewandowski founded D"
+    },
+    {
+      "title_zh": "The US let Nvidia sell chips to an empty office in China",
+      "title_en": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "source": "The Verge",
+      "published_at": "2026-11-07 15:43 UTC",
+      "summary_zh": "Concerns are being raised that neither the Commerc"
+    },
+    {
+      "title_zh": "AI broke the cybersecurity world. What’s next?",
+      "title_en": "AI broke the cybersecurity world. What’s next?",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "source": "The Verge",
+      "published_at": "2026-11-07 15:00 UTC",
+      "summary_zh": "Today, I’m talking with Alex Stamos, chief securit"
     }
   ],
   "public_articles": [
@@ -52,20 +52,20 @@
       "summary_zh": "QNAP urges users to update Plex Media Server to th"
     },
     {
-      "title_zh": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-      "title_en": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "title_zh": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+      "title_en": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+      "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-07 00:00 UTC",
-      "summary_zh": "SonicWall has released security updates to fix sev"
+      "published_at": "2026-11-07 14:10 UTC",
+      "summary_zh": "Scammers are impersonating major brands and celebr"
     },
     {
-      "title_zh": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-      "title_en": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-06 22:27 UTC",
-      "summary_zh": "WorkOS says an AI-powered hacking agent that breac"
+      "title_zh": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "title_en": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "source": "Hacker News",
+      "published_at": "2026-11-07 20:45 UTC",
+      "summary_zh": "Article URL: https://apiiro.com/blog/coding-agents"
     }
   ]
 }
