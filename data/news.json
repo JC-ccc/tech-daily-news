@@ -1,64 +1,48 @@
 {
-  "updated_at": "2026-11-08 12:43:29 (UTC+8)",
+  "updated_at": "2026-11-09 12:52:54 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-      "title_en": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-06 20:24 UTC",
-      "summary_zh": "OpenAI has revealed GPT-6 Cyber, a new artificial "
+      "title_zh": "Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal",
+      "title_en": "Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal",
+      "url": "https://www.infoq.com/news/2026/11/google-cloud-self-managed-vmware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-08 07:16 UTC",
+      "summary_zh": "Google Cloud has made a self-managed VMware soluti"
     },
     {
-      "title_zh": "Beyond code generation: A developer’s guide to agentic engineering",
-      "title_en": "Beyond code generation: A developer’s guide to agentic engineering",
-      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
-      "source": "GitHub Blog",
-      "published_at": "2026-11-06 22:15 UTC",
-      "summary_zh": "Writing code got faster. The work around it didn't"
-    },
-    {
-      "title_zh": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-      "title_en": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+      "title_zh": "Epic Games Launcher is coming to SteamOS",
+      "title_en": "Epic Games Launcher is coming to SteamOS",
+      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
       "source": "The Verge",
-      "published_at": "2026-11-07 16:00 UTC",
-      "summary_zh": "Twenty-five years ago, Kevin Lewandowski founded D"
+      "published_at": "2026-11-08 20:52 UTC",
+      "summary_zh": "In October, Epic Games said that it was \"investiga"
     },
     {
-      "title_zh": "The US let Nvidia sell chips to an empty office in China",
-      "title_en": "The US let Nvidia sell chips to an empty office in China",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "source": "The Verge",
-      "published_at": "2026-11-07 15:43 UTC",
-      "summary_zh": "Concerns are being raised that neither the Commerc"
+      "title_zh": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "title_en": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "source": "Hacker News",
+      "published_at": "2026-11-08 22:35 UTC",
+      "summary_zh": "Article URL: https://ketchup3d.github.io/app/ Comm"
     },
     {
-      "title_zh": "AI broke the cybersecurity world. What’s next?",
-      "title_en": "AI broke the cybersecurity world. What’s next?",
-      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "source": "The Verge",
-      "published_at": "2026-11-07 15:00 UTC",
-      "summary_zh": "Today, I’m talking with Alex Stamos, chief securit"
+      "title_zh": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+      "title_en": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+      "source": "Hacker News",
+      "published_at": "2026-11-08 17:20 UTC",
+      "summary_zh": "Article URL: https://respawnfirst.com/linux-script"
+    },
+    {
+      "title_zh": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "title_en": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "url": "https://github.com/hedgerow-dev/coldframe",
+      "source": "Hacker News",
+      "published_at": "2026-11-07 17:27 UTC",
+      "summary_zh": "I built Coldframe, a honeypot that pretends to be "
     }
   ],
   "public_articles": [
-    {
-      "title_zh": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-      "title_en": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-06 17:04 UTC",
-      "summary_zh": "QNAP urges users to update Plex Media Server to th"
-    },
-    {
-      "title_zh": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-      "title_en": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-      "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-07 14:10 UTC",
-      "summary_zh": "Scammers are impersonating major brands and celebr"
-    },
     {
       "title_zh": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
       "title_en": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
@@ -66,6 +50,22 @@
       "source": "Hacker News",
       "published_at": "2026-11-07 20:45 UTC",
       "summary_zh": "Article URL: https://apiiro.com/blog/coding-agents"
+    },
+    {
+      "title_zh": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "title_en": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "source": "Hacker News",
+      "published_at": "2026-11-08 18:16 UTC",
+      "summary_zh": "Article URL: https://www.thestateofai.com/news/gol"
+    },
+    {
+      "title_zh": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+      "title_en": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+      "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
+      "source": "Hacker News",
+      "published_at": "2026-11-08 16:07 UTC",
+      "summary_zh": "Article URL: https://cleantechnica.com/2026/11/07/"
     }
   ]
 }
