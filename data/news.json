@@ -1,21 +1,37 @@
 {
-  "updated_at": "2026-11-09 12:52:54 (UTC+8)",
+  "updated_at": "2026-11-10 14:08:18 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal",
-      "title_en": "Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal",
-      "url": "https://www.infoq.com/news/2026/11/google-cloud-self-managed-vmware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Cloudflare Develops Public Certificate Authority for Post-Quantum Web Security",
+      "title_en": "Cloudflare Develops Public Certificate Authority for Post-Quantum Web Security",
+      "url": "https://www.infoq.com/news/2026/11/cloudflare-merkle-certificates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-08 07:16 UTC",
-      "summary_zh": "Google Cloud has made a self-managed VMware soluti"
+      "published_at": "2026-11-09 14:35 UTC",
+      "summary_zh": "Cloudflare is developing a public certificate auth"
     },
     {
-      "title_zh": "Epic Games Launcher is coming to SteamOS",
-      "title_en": "Epic Games Launcher is coming to SteamOS",
-      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
-      "source": "The Verge",
-      "published_at": "2026-11-08 20:52 UTC",
-      "summary_zh": "In October, Epic Games said that it was \"investiga"
+      "title_zh": "Tokio Releases Topcoat: A Batteries-Included Full-Stack Rust Framework",
+      "title_en": "Tokio Releases Topcoat: A Batteries-Included Full-Stack Rust Framework",
+      "url": "https://www.infoq.com/news/2026/11/topcoat-rust-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-09 06:42 UTC",
+      "summary_zh": "Topcoat is an open-source, server-rendered full-st"
+    },
+    {
+      "title_zh": "Article: Agentic AI Architecture: Current Challenges and Future Opportunities",
+      "title_en": "Article: Agentic AI Architecture: Current Challenges and Future Opportunities",
+      "url": "https://www.infoq.com/articles/agentic-ai-architecture-challenges-opportunities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-09 10:52 UTC",
+      "summary_zh": "Agentic AI architecture extends microservices and "
+    },
+    {
+      "title_zh": "Google Gemini routes personal Drive files and emails to human annotators",
+      "title_en": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "source": "Hacker News",
+      "published_at": "2026-11-09 18:24 UTC",
+      "summary_zh": "Article URL: https://github.com/thisisme6598/gemin"
     },
     {
       "title_zh": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
@@ -24,48 +40,32 @@
       "source": "Hacker News",
       "published_at": "2026-11-08 22:35 UTC",
       "summary_zh": "Article URL: https://ketchup3d.github.io/app/ Comm"
-    },
-    {
-      "title_zh": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-      "title_en": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
-      "source": "Hacker News",
-      "published_at": "2026-11-08 17:20 UTC",
-      "summary_zh": "Article URL: https://respawnfirst.com/linux-script"
-    },
-    {
-      "title_zh": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-      "title_en": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-      "url": "https://github.com/hedgerow-dev/coldframe",
-      "source": "Hacker News",
-      "published_at": "2026-11-07 17:27 UTC",
-      "summary_zh": "I built Coldframe, a honeypot that pretends to be "
     }
   ],
   "public_articles": [
     {
-      "title_zh": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "title_en": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "source": "Hacker News",
-      "published_at": "2026-11-07 20:45 UTC",
-      "summary_zh": "Article URL: https://apiiro.com/blog/coding-agents"
+      "title_zh": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "title_en": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-09 21:26 UTC",
+      "summary_zh": "N-able has taken its hosted N-central environments"
     },
     {
-      "title_zh": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "title_en": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "source": "Hacker News",
-      "published_at": "2026-11-08 18:16 UTC",
-      "summary_zh": "Article URL: https://www.thestateofai.com/news/gol"
+      "title_zh": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+      "title_en": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-09 17:50 UTC",
+      "summary_zh": "A data-wiping malware attack has forced Russian cl"
     },
     {
-      "title_zh": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
-      "title_en": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
-      "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
-      "source": "Hacker News",
-      "published_at": "2026-11-08 16:07 UTC",
-      "summary_zh": "Article URL: https://cleantechnica.com/2026/11/07/"
+      "title_zh": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+      "title_en": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-09 16:04 UTC",
+      "summary_zh": "Hackers are actively exploiting the \"SSHole\" vulne"
     }
   ]
 }
