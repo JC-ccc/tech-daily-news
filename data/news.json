@@ -1,29 +1,37 @@
 {
-  "updated_at": "2026-11-10 14:08:18 (UTC+8)",
+  "updated_at": "2026-11-11 12:54:51 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "Cloudflare Develops Public Certificate Authority for Post-Quantum Web Security",
-      "title_en": "Cloudflare Develops Public Certificate Authority for Post-Quantum Web Security",
-      "url": "https://www.infoq.com/news/2026/11/cloudflare-merkle-certificates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Presentation: Batch Intelligence at Scale: Cost-Efficient Multi-Agent LLM Workflows with Built-In Resilience",
+      "title_en": "Presentation: Batch Intelligence at Scale: Cost-Efficient Multi-Agent LLM Workflows with Built-In Resilience",
+      "url": "https://www.infoq.com/presentations/scaling-multi-agent-llm-batch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-09 14:35 UTC",
-      "summary_zh": "Cloudflare is developing a public certificate auth"
+      "published_at": "2026-11-10 11:00 UTC",
+      "summary_zh": "Aditya Mulik explains how Walmart Global Tech depl"
     },
     {
-      "title_zh": "Tokio Releases Topcoat: A Batteries-Included Full-Stack Rust Framework",
-      "title_en": "Tokio Releases Topcoat: A Batteries-Included Full-Stack Rust Framework",
-      "url": "https://www.infoq.com/news/2026/11/topcoat-rust-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Pinterest and Intel Take Open-Source Profiling to Internet Scale",
+      "title_en": "Pinterest and Intel Take Open-Source Profiling to Internet Scale",
+      "url": "https://www.infoq.com/news/2026/11/pinterest-intel-profiling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-09 06:42 UTC",
-      "summary_zh": "Topcoat is an open-source, server-rendered full-st"
+      "published_at": "2026-11-10 12:00 UTC",
+      "summary_zh": "Pinterest has partnered with Intel to extend gProf"
     },
     {
-      "title_zh": "Article: Agentic AI Architecture: Current Challenges and Future Opportunities",
-      "title_en": "Article: Agentic AI Architecture: Current Challenges and Future Opportunities",
-      "url": "https://www.infoq.com/articles/agentic-ai-architecture-challenges-opportunities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Article: LLM Reliability Layers Under Test: Accuracy, Yield, and the Limits of Verification",
+      "title_en": "Article: LLM Reliability Layers Under Test: Accuracy, Yield, and the Limits of Verification",
+      "url": "https://www.infoq.com/articles/llm-reliability-layers-limits-accuracy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-09 10:52 UTC",
-      "summary_zh": "Agentic AI architecture extends microservices and "
+      "published_at": "2026-11-10 09:00 UTC",
+      "summary_zh": "Verification layers sort outputs by trust rather t"
+    },
+    {
+      "title_zh": "Google Cloud Spend Caps Reach General Availability with API and Monthly Resets",
+      "title_en": "Google Cloud Spend Caps Reach General Availability with API and Monthly Resets",
+      "url": "https://www.infoq.com/news/2026/11/google-cloud-spend-caps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-10 08:39 UTC",
+      "summary_zh": "Google Cloud has made spend caps on Cloud Billing "
     },
     {
       "title_zh": "Google Gemini routes personal Drive files and emails to human annotators",
@@ -32,40 +40,32 @@
       "source": "Hacker News",
       "published_at": "2026-11-09 18:24 UTC",
       "summary_zh": "Article URL: https://github.com/thisisme6598/gemin"
-    },
-    {
-      "title_zh": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-      "title_en": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-      "url": "https://ketchup3d.github.io/app/",
-      "source": "Hacker News",
-      "published_at": "2026-11-08 22:35 UTC",
-      "summary_zh": "Article URL: https://ketchup3d.github.io/app/ Comm"
     }
   ],
   "public_articles": [
     {
-      "title_zh": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
-      "title_en": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
-      "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "title_zh": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+      "title_en": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-09 21:26 UTC",
-      "summary_zh": "N-able has taken its hosted N-central environments"
+      "published_at": "2026-11-10 16:17 UTC",
+      "summary_zh": "A critical authentication bypass vulnerability in "
     },
     {
-      "title_zh": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
-      "title_en": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
+      "title_zh": "Google patches eighth Chrome zero-day exploited in attacks this year",
+      "title_en": "Google patches eighth Chrome zero-day exploited in attacks this year",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-09 17:50 UTC",
-      "summary_zh": "A data-wiping malware attack has forced Russian cl"
+      "published_at": "2026-11-10 08:51 UTC",
+      "summary_zh": "Google has released emergency security updates to "
     },
     {
-      "title_zh": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
-      "title_en": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+      "title_zh": "Railway breach leads to $740,000 in fraudulent AI charges",
+      "title_en": "Railway breach leads to $740,000 in fraudulent AI charges",
+      "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-09 16:04 UTC",
-      "summary_zh": "Hackers are actively exploiting the \"SSHole\" vulne"
+      "published_at": "2026-11-10 22:20 UTC",
+      "summary_zh": "Cloud hosting provider Railway says hackers exploi"
     }
   ]
 }
