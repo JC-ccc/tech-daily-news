@@ -1,71 +1,71 @@
 {
-  "updated_at": "2026-11-12 13:56:45 (UTC+8)",
+  "updated_at": "2026-11-13 13:19:42 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-      "title_en": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-11 15:12 UTC",
-      "summary_zh": "Attackers are using Alibaba Cloud to host self-man"
+      "title_zh": "Presentation: Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector",
+      "title_en": "Presentation: Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector",
+      "url": "https://www.infoq.com/presentations/explainable-ai-llm-agent-decisions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-12 11:00 UTC",
+      "summary_zh": "Hannes Hapke shares how Dataiku’s open-source Kiji"
     },
     {
-      "title_zh": "Gemini Decisions API",
-      "title_en": "Gemini Decisions API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "title_zh": "Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs",
+      "title_en": "Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs",
+      "url": "https://www.infoq.com/news/2026/11/google-tpu-sync/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-12 10:06 UTC",
+      "summary_zh": "Google Cloud has open-sourced TPU Sync, a native C"
+    },
+    {
+      "title_zh": "Hackers plant GSocket on Linux servers for persistent access",
+      "title_en": "Hackers plant GSocket on Linux servers for persistent access",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-12 09:38 UTC",
+      "summary_zh": "Multiple threat actors are abusing GSocket, a legi"
+    },
+    {
+      "title_zh": "Gemini 4 Hydrogen",
+      "title_en": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
       "source": "Hacker News",
-      "published_at": "2026-11-11 18:32 UTC",
+      "published_at": "2026-11-12 18:01 UTC",
       "summary_zh": "Article URL: https://blog.google/innovation-and-ai"
     },
     {
-      "title_zh": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "title_en": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "title_zh": "I'm making LLMs work on small and old devices",
+      "title_en": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
       "source": "Hacker News",
-      "published_at": "2026-11-10 18:01 UTC",
-      "summary_zh": "Browsers natively handle a lot of what used to tak"
-    },
-    {
-      "title_zh": "JioHotstar Benchmarks Knowledge Bases for AI Coding Agents",
-      "title_en": "JioHotstar Benchmarks Knowledge Bases for AI Coding Agents",
-      "url": "https://www.infoq.com/news/2026/11/jiohotstar-codingagent-retrieval/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-11-11 14:28 UTC",
-      "summary_zh": "JioHotstar evaluated 6 approaches to code retrieva"
-    },
-    {
-      "title_zh": "How LinkedIn, Netflix & DoorDash Run Agents, Evals & Inference in Production: QCon AI New York 2026",
-      "title_en": "How LinkedIn, Netflix & DoorDash Run Agents, Evals & Inference in Production: QCon AI New York 2026",
-      "url": "https://www.infoq.com/news/2026/11/qcon-ai-newyork-2026-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-11-11 11:00 UTC",
-      "summary_zh": "QCon AI New York has published its full program fo"
+      "published_at": "2026-11-12 15:23 UTC",
+      "summary_zh": "Article URL: https://github.com/hyperionaidev/smol"
     }
   ],
   "public_articles": [
     {
-      "title_zh": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
-      "title_en": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+      "title_zh": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+      "title_en": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-11 10:12 UTC",
-      "summary_zh": "The US Cybersecurity and Infrastructure Security A"
+      "published_at": "2026-11-12 19:12 UTC",
+      "summary_zh": "A critical vulnerability in the HTTP/2 module of A"
     },
     {
-      "title_zh": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
-      "title_en": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
-      "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+      "title_zh": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+      "title_en": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-11 22:56 UTC",
-      "summary_zh": "ConnectWise is investigating an active malware cam"
+      "published_at": "2026-11-12 19:51 UTC",
+      "summary_zh": "Hackers are actively exploiting a newly disclosed "
     },
     {
-      "title_zh": "Railway breach leads to $740,000 in fraudulent AI charges",
-      "title_en": "Railway breach leads to $740,000 in fraudulent AI charges",
-      "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+      "title_zh": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+      "title_en": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-10 22:20 UTC",
-      "summary_zh": "Cloud hosting provider Railway says hackers exploi"
+      "published_at": "2026-11-12 16:04 UTC",
+      "summary_zh": "Security researcher Abdelhamid Naceri (also known "
     }
   ]
 }
