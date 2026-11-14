@@ -1,29 +1,37 @@
 {
-  "updated_at": "2026-11-13 13:19:42 (UTC+8)",
+  "updated_at": "2026-11-14 13:09:28 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "Presentation: Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector",
-      "title_en": "Presentation: Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector",
-      "url": "https://www.infoq.com/presentations/explainable-ai-llm-agent-decisions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures",
+      "title_en": "Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures",
+      "url": "https://www.infoq.com/news/2026/11/google-ambient-agent-prod/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-12 11:00 UTC",
-      "summary_zh": "Hannes Hapke shares how Dataiku’s open-source Kiji"
+      "published_at": "2026-11-13 13:53 UTC",
+      "summary_zh": "Google has open-sourced AQuA, a reference implemen"
     },
     {
-      "title_zh": "Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs",
-      "title_en": "Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs",
-      "url": "https://www.infoq.com/news/2026/11/google-tpu-sync/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-11-12 10:06 UTC",
-      "summary_zh": "Google Cloud has open-sourced TPU Sync, a native C"
+      "title_zh": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "title_en": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "source": "Hacker News",
+      "published_at": "2026-11-13 17:30 UTC",
+      "summary_zh": "Article URL: https://www.theguardian.com/science/2"
     },
     {
-      "title_zh": "Hackers plant GSocket on Linux servers for persistent access",
-      "title_en": "Hackers plant GSocket on Linux servers for persistent access",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-12 09:38 UTC",
-      "summary_zh": "Multiple threat actors are abusing GSocket, a legi"
+      "title_zh": "AI is destroying the trust between writers and readers",
+      "title_en": "AI is destroying the trust between writers and readers",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "source": "Hacker News",
+      "published_at": "2026-11-13 11:13 UTC",
+      "summary_zh": "Article URL: https://www.theatlantic.com/books/202"
+    },
+    {
+      "title_zh": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "title_en": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "source": "Hacker News",
+      "published_at": "2026-11-12 22:03 UTC",
+      "summary_zh": "Article URL: https://scottjg.com/posts/2026-11-11-"
     },
     {
       "title_zh": "Gemini 4 Hydrogen",
@@ -32,14 +40,6 @@
       "source": "Hacker News",
       "published_at": "2026-11-12 18:01 UTC",
       "summary_zh": "Article URL: https://blog.google/innovation-and-ai"
-    },
-    {
-      "title_zh": "I'm making LLMs work on small and old devices",
-      "title_en": "I'm making LLMs work on small and old devices",
-      "url": "https://github.com/hyperionaidev/smolmaxxing/",
-      "source": "Hacker News",
-      "published_at": "2026-11-12 15:23 UTC",
-      "summary_zh": "Article URL: https://github.com/hyperionaidev/smol"
     }
   ],
   "public_articles": [
@@ -60,12 +60,12 @@
       "summary_zh": "Hackers are actively exploiting a newly disclosed "
     },
     {
-      "title_zh": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
-      "title_en": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-12 16:04 UTC",
-      "summary_zh": "Security researcher Abdelhamid Naceri (also known "
+      "title_zh": "Service degradation on Microsoft 365",
+      "title_en": "Service degradation on Microsoft 365",
+      "url": "https://status.cloud.microsoft/",
+      "source": "Hacker News",
+      "published_at": "2026-11-12 18:20 UTC",
+      "summary_zh": "https://www.abc.net.au/news/2026-11-13/microsoft-o"
     }
   ]
 }
