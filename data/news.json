@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-11-14 13:09:28 (UTC+8)",
+  "updated_at": "2026-11-15 13:01:53 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures",
-      "title_en": "Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures",
-      "url": "https://www.infoq.com/news/2026/11/google-ambient-agent-prod/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Google Cloud Moves the Compute Engine API to Immutable Date-Based Versions",
+      "title_en": "Google Cloud Moves the Compute Engine API to Immutable Date-Based Versions",
+      "url": "https://www.infoq.com/news/2026/11/compute-engine-api-versioning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-13 13:53 UTC",
-      "summary_zh": "Google has open-sourced AQuA, a reference implemen"
+      "published_at": "2026-11-14 07:27 UTC",
+      "summary_zh": "Google Cloud has made date-based versioning of the"
+    },
+    {
+      "title_zh": "Open Source DocumentDB 1.0 Reaches General Availability",
+      "title_en": "Open Source DocumentDB 1.0 Reaches General Availability",
+      "url": "https://www.infoq.com/news/2026/11/mongodb-compatible-documentdb/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-14 06:37 UTC",
+      "summary_zh": "DocumentDB 1.0 is the first generally available re"
+    },
+    {
+      "title_zh": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "title_en": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "url": "https://isometricsf.com/",
+      "source": "Hacker News",
+      "published_at": "2026-11-13 17:58 UTC",
+      "summary_zh": "Technical Write-up: https://www.justinchavez.com/b"
     },
     {
       "title_zh": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
@@ -18,54 +34,38 @@
       "summary_zh": "Article URL: https://www.theguardian.com/science/2"
     },
     {
-      "title_zh": "AI is destroying the trust between writers and readers",
-      "title_en": "AI is destroying the trust between writers and readers",
-      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-      "source": "Hacker News",
-      "published_at": "2026-11-13 11:13 UTC",
-      "summary_zh": "Article URL: https://www.theatlantic.com/books/202"
-    },
-    {
-      "title_zh": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "title_en": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "source": "Hacker News",
-      "published_at": "2026-11-12 22:03 UTC",
-      "summary_zh": "Article URL: https://scottjg.com/posts/2026-11-11-"
-    },
-    {
-      "title_zh": "Gemini 4 Hydrogen",
-      "title_en": "Gemini 4 Hydrogen",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "source": "Hacker News",
-      "published_at": "2026-11-12 18:01 UTC",
-      "summary_zh": "Article URL: https://blog.google/innovation-and-ai"
+      "title_zh": "US disrupts North Korean campaign behind $400 million crypto theft",
+      "title_en": "US disrupts North Korean campaign behind $400 million crypto theft",
+      "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-14 15:15 UTC",
+      "summary_zh": "The U.S. government has disrupted a North Korean s"
     }
   ],
   "public_articles": [
     {
-      "title_zh": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-      "title_en": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+      "title_zh": "Cursor confirms security breach led to malicious Claude Code extension",
+      "title_en": "Cursor confirms security breach led to malicious Claude Code extension",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-12 19:12 UTC",
-      "summary_zh": "A critical vulnerability in the HTTP/2 module of A"
+      "published_at": "2026-11-14 17:27 UTC",
+      "summary_zh": "Cursor confirmed it suffered a security breach tha"
     },
     {
-      "title_zh": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-      "title_en": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-12 19:51 UTC",
-      "summary_zh": "Hackers are actively exploiting a newly disclosed "
-    },
-    {
-      "title_zh": "Service degradation on Microsoft 365",
-      "title_en": "Service degradation on Microsoft 365",
-      "url": "https://status.cloud.microsoft/",
+      "title_zh": "Tech companies are trying to shift the concept of privacy again",
+      "title_en": "Tech companies are trying to shift the concept of privacy again",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
       "source": "Hacker News",
-      "published_at": "2026-11-12 18:20 UTC",
-      "summary_zh": "https://www.abc.net.au/news/2026-11-13/microsoft-o"
+      "published_at": "2026-11-14 12:45 UTC",
+      "summary_zh": "Article URL: https://www.eff.org/deeplinks/2026/11"
+    },
+    {
+      "title_zh": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+      "title_en": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+      "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-13 19:38 UTC",
+      "summary_zh": "Cryptocurrency hardware wallet maker Trezor has co"
     }
   ]
 }
