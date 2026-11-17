@@ -1,71 +1,71 @@
 {
-  "updated_at": "2026-11-16 12:59:55 (UTC+8)",
+  "updated_at": "2026-11-17 14:48:16 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "All AI-generated code should be Open Source",
-      "title_en": "All AI-generated code should be Open Source",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "source": "Hacker News",
-      "published_at": "2026-11-15 14:46 UTC",
-      "summary_zh": "Article URL: https://jakub.jankiewicz.org/blog/ai-"
-    },
-    {
-      "title_zh": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-      "title_en": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-      "source": "Hacker News",
-      "published_at": "2026-11-15 11:40 UTC",
-      "summary_zh": "https://wallhop.io/https://www.nytimes.com/2026/11"
-    },
-    {
-      "title_zh": "Uber's Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle",
-      "title_en": "Uber's Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle",
-      "url": "https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Airbnb Introduces CASTLE for Training Natural Language Search Models with Synthetic Data",
+      "title_en": "Airbnb Introduces CASTLE for Training Natural Language Search Models with Synthetic Data",
+      "url": "https://www.infoq.com/news/2026/11/airbnb-castle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-15 20:00 UTC",
-      "summary_zh": "In a recent article, Uber Engineering highlights t"
+      "published_at": "2026-11-16 12:25 UTC",
+      "summary_zh": "Airbnb researchers have introduced CASTLE, a frame"
     },
     {
-      "title_zh": "Cloudflare Introduces Private Origins for Application Services",
-      "title_en": "Cloudflare Introduces Private Origins for Application Services",
-      "url": "https://www.infoq.com/news/2026/11/cloudflare-private-origins/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Article: Governed Autonomous Intelligence for Mission-Critical Utility",
+      "title_en": "Article: Governed Autonomous Intelligence for Mission-Critical Utility",
+      "url": "https://www.infoq.com/articles/utility-governed-autonomous-intelligence-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-15 06:18 UTC",
-      "summary_zh": "Cloudflare recently made Application Services for "
+      "published_at": "2026-11-16 11:00 UTC",
+      "summary_zh": "The article describes an architecture for agentic "
     },
     {
-      "title_zh": "Apple’s new study looks to improve the effectiveness of AI health tools",
-      "title_en": "Apple’s new study looks to improve the effectiveness of AI health tools",
-      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-      "source": "The Verge",
-      "published_at": "2026-11-16 01:26 UTC",
-      "summary_zh": "Apple announced a new study today with the goal of"
+      "title_zh": "Java News Roundup: Lazy Constants, Spring for Apache Pulsar, GlassFish, Hibernate, TomEE, Seed4J",
+      "title_en": "Java News Roundup: Lazy Constants, Spring for Apache Pulsar, GlassFish, Hibernate, TomEE, Seed4J",
+      "url": "https://www.infoq.com/news/2026/11/java-news-roundup-nov09-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-16 15:25 UTC",
+      "summary_zh": "This week's Java roundup for November 9th, 2026, f"
+    },
+    {
+      "title_zh": "Uber’s Legal AI Agent Cuts Contract Review Time by 20% with Rules and RAG",
+      "title_en": "Uber’s Legal AI Agent Cuts Contract Review Time by 20% with Rules and RAG",
+      "url": "https://www.infoq.com/news/2026/11/uber-legal-redlining-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-16 14:37 UTC",
+      "summary_zh": "Uber’s Legal Redlining Agent reviews contract chan"
+    },
+    {
+      "title_zh": "Podcast: Getting CRA Compliant Hardens the Code and Gets Your Company Closer to Digital Sovereignty",
+      "title_en": "Podcast: Getting CRA Compliant Hardens the Code and Gets Your Company Closer to Digital Sovereignty",
+      "url": "https://www.infoq.com/podcasts/company-closer-digital-sovereignty/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-16 11:00 UTC",
+      "summary_zh": "In this episode, Christopher \"CRob\" Robinson, CTO "
     }
   ],
   "public_articles": [
     {
-      "title_zh": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-      "title_en": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-15 18:29 UTC",
-      "summary_zh": "The FBI is warning that hackers are using an AI-po"
+      "title_zh": "Alpine Linux Users Urged to Patch OpenSSH Authentication Flaw",
+      "title_en": "Alpine Linux Users Urged to Patch OpenSSH Authentication Flaw",
+      "url": "https://www.infoq.com/news/2026/11/alpine-linux-openssh-sshhole/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-16 09:00 UTC",
+      "summary_zh": "A recently disclosed vulnerability in OpenSSH lets"
     },
     {
-      "title_zh": "TSMC employee data breach linked to cloud provider",
-      "title_en": "TSMC employee data breach linked to cloud provider",
-      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "title_zh": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "title_en": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-15 15:23 UTC",
-      "summary_zh": "Taiwan Semiconductor Manufacturing Company (TSMC) "
+      "published_at": "2026-11-17 02:12 UTC",
+      "summary_zh": "A suspected supply chain attack targeting Optimize"
     },
     {
-      "title_zh": "Cursor confirms security breach led to malicious Claude Code extension",
-      "title_en": "Cursor confirms security breach led to malicious Claude Code extension",
-      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "title_zh": "Google warns that fully-automated AI attacks are coming soon",
+      "title_en": "Google warns that fully-automated AI attacks are coming soon",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-14 17:27 UTC",
-      "summary_zh": "Cursor confirmed it suffered a security breach tha"
+      "published_at": "2026-11-16 14:00 UTC",
+      "summary_zh": "Threat actors are now relying on agentic workflows"
     }
   ]
 }
