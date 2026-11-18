@@ -1,71 +1,71 @@
 {
-  "updated_at": "2026-11-17 14:48:16 (UTC+8)",
+  "updated_at": "2026-11-18 14:06:31 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "Airbnb Introduces CASTLE for Training Natural Language Search Models with Synthetic Data",
-      "title_en": "Airbnb Introduces CASTLE for Training Natural Language Search Models with Synthetic Data",
-      "url": "https://www.infoq.com/news/2026/11/airbnb-castle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Ten Years On, Google Updates the SRE Book for the AI Era",
+      "title_en": "Ten Years On, Google Updates the SRE Book for the AI Era",
+      "url": "https://www.infoq.com/news/2026/11/google-sre-book-ai-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-16 12:25 UTC",
-      "summary_zh": "Airbnb researchers have introduced CASTLE, a frame"
+      "published_at": "2026-11-17 09:00 UTC",
+      "summary_zh": "Google has announced a completely rewritten second"
     },
     {
-      "title_zh": "Article: Governed Autonomous Intelligence for Mission-Critical Utility",
-      "title_en": "Article: Governed Autonomous Intelligence for Mission-Critical Utility",
-      "url": "https://www.infoq.com/articles/utility-governed-autonomous-intelligence-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Production AI, Architecture Trade-offs & Team Design: InfoQ Opens Registration for 6 January Cohorts",
+      "title_en": "Production AI, Architecture Trade-offs & Team Design: InfoQ Opens Registration for 6 January Cohorts",
+      "url": "https://www.infoq.com/news/2026/11/onlinecohort-jan27-certification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-16 11:00 UTC",
-      "summary_zh": "The article describes an architecture for agentic "
+      "published_at": "2026-11-17 11:00 UTC",
+      "summary_zh": "From agent reliability to architecture decisions a"
     },
     {
-      "title_zh": "Java News Roundup: Lazy Constants, Spring for Apache Pulsar, GlassFish, Hibernate, TomEE, Seed4J",
-      "title_en": "Java News Roundup: Lazy Constants, Spring for Apache Pulsar, GlassFish, Hibernate, TomEE, Seed4J",
-      "url": "https://www.infoq.com/news/2026/11/java-news-roundup-nov09-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Presentation: Scaling LLM-Based Ranking Systems for Latency-Critical Search & Recommendation Workloads",
+      "title_en": "Presentation: Scaling LLM-Based Ranking Systems for Latency-Critical Search & Recommendation Workloads",
+      "url": "https://www.infoq.com/presentations/scale-llm-ranking-systems-linkedin/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-16 15:25 UTC",
-      "summary_zh": "This week's Java roundup for November 9th, 2026, f"
+      "published_at": "2026-11-17 11:00 UTC",
+      "summary_zh": "Sundara Raman Ramachandran shares how LinkedIn pro"
     },
     {
-      "title_zh": "Uber’s Legal AI Agent Cuts Contract Review Time by 20% with Rules and RAG",
-      "title_en": "Uber’s Legal AI Agent Cuts Contract Review Time by 20% with Rules and RAG",
-      "url": "https://www.infoq.com/news/2026/11/uber-legal-redlining-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-11-16 14:37 UTC",
-      "summary_zh": "Uber’s Legal Redlining Agent reviews contract chan"
+      "title_zh": "Maintainers don’t need more AI bug reports. They need fixes.",
+      "title_en": "Maintainers don’t need more AI bug reports. They need fixes.",
+      "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+      "source": "GitHub Blog",
+      "published_at": "2026-11-17 18:29 UTC",
+      "summary_zh": "In the Codename MDASH pilot, GitHub and Microsoft "
     },
     {
-      "title_zh": "Podcast: Getting CRA Compliant Hardens the Code and Gets Your Company Closer to Digital Sovereignty",
-      "title_en": "Podcast: Getting CRA Compliant Hardens the Code and Gets Your Company Closer to Digital Sovereignty",
-      "url": "https://www.infoq.com/podcasts/company-closer-digital-sovereignty/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-11-16 11:00 UTC",
-      "summary_zh": "In this episode, Christopher \"CRob\" Robinson, CTO "
+      "title_zh": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "title_en": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-17 19:24 UTC",
+      "summary_zh": "Apple is reporting service disruptions affecting s"
     }
   ],
   "public_articles": [
     {
-      "title_zh": "Alpine Linux Users Urged to Patch OpenSSH Authentication Flaw",
-      "title_en": "Alpine Linux Users Urged to Patch OpenSSH Authentication Flaw",
-      "url": "https://www.infoq.com/news/2026/11/alpine-linux-openssh-sshhole/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-11-16 09:00 UTC",
-      "summary_zh": "A recently disclosed vulnerability in OpenSSH lets"
+      "title_zh": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "title_en": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-17 23:04 UTC",
+      "summary_zh": "A critical vulnerability dubbed Java4Shell in Open"
     },
     {
-      "title_zh": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-      "title_en": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "title_zh": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "title_en": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-17 02:12 UTC",
-      "summary_zh": "A suspected supply chain attack targeting Optimize"
+      "published_at": "2026-11-17 21:27 UTC",
+      "summary_zh": "Credentials and access secrets exposed in public D"
     },
     {
-      "title_zh": "Google warns that fully-automated AI attacks are coming soon",
-      "title_en": "Google warns that fully-automated AI attacks are coming soon",
-      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+      "title_zh": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+      "title_en": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-16 14:00 UTC",
-      "summary_zh": "Threat actors are now relying on agentic workflows"
+      "published_at": "2026-11-17 08:35 UTC",
+      "summary_zh": "Ride-hailing company Uber is notifying nearly 150,"
     }
   ]
 }
