@@ -1,48 +1,56 @@
 {
-  "updated_at": "2026-11-18 14:06:31 (UTC+8)",
+  "updated_at": "2026-11-19 14:08:04 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "Ten Years On, Google Updates the SRE Book for the AI Era",
-      "title_en": "Ten Years On, Google Updates the SRE Book for the AI Era",
-      "url": "https://www.infoq.com/news/2026/11/google-sre-book-ai-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Presentation: Behind Booking.com's AI Evolution: The Unpolished Story",
+      "title_en": "Presentation: Behind Booking.com's AI Evolution: The Unpolished Story",
+      "url": "https://www.infoq.com/presentations/bookingcom-ml-data-platform-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-17 09:00 UTC",
-      "summary_zh": "Google has announced a completely rewritten second"
+      "published_at": "2026-11-18 11:00 UTC",
+      "summary_zh": "Jabez Eliezer Manuel discusses the 20-year evoluti"
     },
     {
-      "title_zh": "Production AI, Architecture Trade-offs & Team Design: InfoQ Opens Registration for 6 January Cohorts",
-      "title_en": "Production AI, Architecture Trade-offs & Team Design: InfoQ Opens Registration for 6 January Cohorts",
-      "url": "https://www.infoq.com/news/2026/11/onlinecohort-jan27-certification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Gemini 4 Neon",
+      "title_en": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "source": "Hacker News",
+      "published_at": "2026-11-18 21:34 UTC",
+      "summary_zh": "Article URL: https://blog.google/innovation-and-ai"
+    },
+    {
+      "title_zh": "Seven new models at scalable price-performance",
+      "title_en": "Seven new models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "source": "Hacker News",
+      "published_at": "2026-11-18 16:08 UTC",
+      "summary_zh": "Article URL: https://microsoft.ai/news/microsoft-i"
+    },
+    {
+      "title_zh": "Google's AI answers reducing search traffic by 40%",
+      "title_en": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "source": "Hacker News",
+      "published_at": "2026-11-18 00:17 UTC",
+      "summary_zh": "Article URL: https://revscope.co/blog/search-seo-g"
+    },
+    {
+      "title_zh": "LinkedIn Cuts Daily Spark Shuffle Fetch Failures from 750 to 20 with Apache Celeborn",
+      "title_en": "LinkedIn Cuts Daily Spark Shuffle Fetch Failures from 750 to 20 with Apache Celeborn",
+      "url": "https://www.infoq.com/news/2026/11/linkedin-celeborn-remote-shuffle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-17 11:00 UTC",
-      "summary_zh": "From agent reliability to architecture decisions a"
-    },
-    {
-      "title_zh": "Presentation: Scaling LLM-Based Ranking Systems for Latency-Critical Search & Recommendation Workloads",
-      "title_en": "Presentation: Scaling LLM-Based Ranking Systems for Latency-Critical Search & Recommendation Workloads",
-      "url": "https://www.infoq.com/presentations/scale-llm-ranking-systems-linkedin/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-11-17 11:00 UTC",
-      "summary_zh": "Sundara Raman Ramachandran shares how LinkedIn pro"
-    },
-    {
-      "title_zh": "Maintainers don’t need more AI bug reports. They need fixes.",
-      "title_en": "Maintainers don’t need more AI bug reports. They need fixes.",
-      "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
-      "source": "GitHub Blog",
-      "published_at": "2026-11-17 18:29 UTC",
-      "summary_zh": "In the Codename MDASH pilot, GitHub and Microsoft "
-    },
-    {
-      "title_zh": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-      "title_en": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-17 19:24 UTC",
-      "summary_zh": "Apple is reporting service disruptions affecting s"
+      "published_at": "2026-11-18 15:05 UTC",
+      "summary_zh": "LinkedIn deployed Apache Celeborn as a shared remo"
     }
   ],
   "public_articles": [
+    {
+      "title_zh": "Apache warns of Roller RCE vulnerability exploited in attacks",
+      "title_en": "Apache warns of Roller RCE vulnerability exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-18 10:35 UTC",
+      "summary_zh": "Apache has released security updates to address a "
+    },
     {
       "title_zh": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
       "title_en": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
@@ -58,14 +66,6 @@
       "source": "BleepingComputer",
       "published_at": "2026-11-17 21:27 UTC",
       "summary_zh": "Credentials and access secrets exposed in public D"
-    },
-    {
-      "title_zh": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-      "title_en": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-17 08:35 UTC",
-      "summary_zh": "Ride-hailing company Uber is notifying nearly 150,"
     }
   ]
 }
