@@ -1,13 +1,37 @@
 {
-  "updated_at": "2026-11-19 14:08:04 (UTC+8)",
+  "updated_at": "2026-11-20 13:54:48 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "Presentation: Behind Booking.com's AI Evolution: The Unpolished Story",
-      "title_en": "Presentation: Behind Booking.com's AI Evolution: The Unpolished Story",
-      "url": "https://www.infoq.com/presentations/bookingcom-ml-data-platform-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Presentation: RIIIR: Rewrite It In *Idiomatic* Rust (with AI)",
+      "title_en": "Presentation: RIIIR: Rewrite It In *Idiomatic* Rust (with AI)",
+      "url": "https://www.infoq.com/presentations/rust-ai-symposium-agent-client-protocol/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-18 11:00 UTC",
-      "summary_zh": "Jabez Eliezer Manuel discusses the 20-year evoluti"
+      "published_at": "2026-11-19 11:00 UTC",
+      "summary_zh": "Nicholas Matsakis shares why AI makes Rust the ide"
+    },
+    {
+      "title_zh": "Presentation: AI-Assisted Software Delivery: From Code to Production",
+      "title_en": "Presentation: AI-Assisted Software Delivery: From Code to Production",
+      "url": "https://www.infoq.com/presentations/ai-assisted-software-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-19 14:30 UTC",
+      "summary_zh": "The panelists explore how engineering teams adapt "
+    },
+    {
+      "title_zh": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+      "title_en": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-19 14:57 UTC",
+      "summary_zh": "Two critical NGINX vulnerabilities dubbed \"nginx2r"
+    },
+    {
+      "title_zh": "A brief history of Nvidia’s recent stock fluctuations",
+      "title_en": "A brief history of Nvidia’s recent stock fluctuations",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "source": "The Verge",
+      "published_at": "2026-11-19 21:59 UTC",
+      "summary_zh": "\"We've got this,\" Colette Kress, interim CEO of Nv"
     },
     {
       "title_zh": "Gemini 4 Neon",
@@ -16,56 +40,32 @@
       "source": "Hacker News",
       "published_at": "2026-11-18 21:34 UTC",
       "summary_zh": "Article URL: https://blog.google/innovation-and-ai"
-    },
-    {
-      "title_zh": "Seven new models at scalable price-performance",
-      "title_en": "Seven new models at scalable price-performance",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-      "source": "Hacker News",
-      "published_at": "2026-11-18 16:08 UTC",
-      "summary_zh": "Article URL: https://microsoft.ai/news/microsoft-i"
-    },
-    {
-      "title_zh": "Google's AI answers reducing search traffic by 40%",
-      "title_en": "Google's AI answers reducing search traffic by 40%",
-      "url": "https://revscope.co/blog/search-seo-geo-2026/",
-      "source": "Hacker News",
-      "published_at": "2026-11-18 00:17 UTC",
-      "summary_zh": "Article URL: https://revscope.co/blog/search-seo-g"
-    },
-    {
-      "title_zh": "LinkedIn Cuts Daily Spark Shuffle Fetch Failures from 750 to 20 with Apache Celeborn",
-      "title_en": "LinkedIn Cuts Daily Spark Shuffle Fetch Failures from 750 to 20 with Apache Celeborn",
-      "url": "https://www.infoq.com/news/2026/11/linkedin-celeborn-remote-shuffle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-11-18 15:05 UTC",
-      "summary_zh": "LinkedIn deployed Apache Celeborn as a shared remo"
     }
   ],
   "public_articles": [
     {
-      "title_zh": "Apache warns of Roller RCE vulnerability exploited in attacks",
-      "title_en": "Apache warns of Roller RCE vulnerability exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+      "title_zh": "VMware patches vCenter zero-day exploited in attacks since September",
+      "title_en": "VMware patches vCenter zero-day exploited in attacks since September",
+      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-18 10:35 UTC",
-      "summary_zh": "Apache has released security updates to address a "
+      "published_at": "2026-11-20 00:26 UTC",
+      "summary_zh": "Broadcom has released security updates to fix a cr"
     },
     {
-      "title_zh": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
-      "title_en": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "title_zh": "Five warning signs of ransomware breach before encryption or data theft",
+      "title_en": "Five warning signs of ransomware breach before encryption or data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-17 23:04 UTC",
-      "summary_zh": "A critical vulnerability dubbed Java4Shell in Open"
+      "published_at": "2026-11-19 15:00 UTC",
+      "summary_zh": "Ransomware attacks often involve credential theft,"
     },
     {
-      "title_zh": "Cloud keys leaked in Docker Hub images are stolen within seconds",
-      "title_en": "Cloud keys leaked in Docker Hub images are stolen within seconds",
-      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "title_zh": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+      "title_en": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-17 21:27 UTC",
-      "summary_zh": "Credentials and access secrets exposed in public D"
+      "published_at": "2026-11-19 13:08 UTC",
+      "summary_zh": "The Drupal Security Team has patched a critical re"
     }
   ]
 }
