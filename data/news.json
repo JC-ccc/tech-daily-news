@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-11-20 13:54:48 (UTC+8)",
+  "updated_at": "2026-11-21 13:50:03 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "Presentation: RIIIR: Rewrite It In *Idiomatic* Rust (with AI)",
-      "title_en": "Presentation: RIIIR: Rewrite It In *Idiomatic* Rust (with AI)",
-      "url": "https://www.infoq.com/presentations/rust-ai-symposium-agent-client-protocol/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Google Donates Agent Substrate and gVisor to the CNCF to Secure AI Agents at Scale",
+      "title_en": "Google Donates Agent Substrate and gVisor to the CNCF to Secure AI Agents at Scale",
+      "url": "https://www.infoq.com/news/2026/11/google-substrate-gvisor-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-19 11:00 UTC",
-      "summary_zh": "Nicholas Matsakis shares why AI makes Rust the ide"
+      "published_at": "2026-11-20 12:00 UTC",
+      "summary_zh": "Google has announced it is donating Agent Substrat"
     },
     {
-      "title_zh": "Presentation: AI-Assisted Software Delivery: From Code to Production",
-      "title_en": "Presentation: AI-Assisted Software Delivery: From Code to Production",
-      "url": "https://www.infoq.com/presentations/ai-assisted-software-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Uber Cuts Translation Cache Memory by up to 90% While Keeping P99 Latency Below 1 MS",
+      "title_en": "Uber Cuts Translation Cache Memory by up to 90% While Keeping P99 Latency Below 1 MS",
+      "url": "https://www.infoq.com/news/2026/11/uber-go-translation-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-19 14:30 UTC",
-      "summary_zh": "The panelists explore how engineering teams adapt "
+      "published_at": "2026-11-20 14:38 UTC",
+      "summary_zh": "Uber redesigned its Go-based translation cache to "
     },
     {
-      "title_zh": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-      "title_en": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-19 14:57 UTC",
-      "summary_zh": "Two critical NGINX vulnerabilities dubbed \"nginx2r"
+      "title_zh": "Article: Building Reliability Into the Cloud: Observability as the Control Plane for Multi-Region Failover",
+      "title_en": "Article: Building Reliability Into the Cloud: Observability as the Control Plane for Multi-Region Failover",
+      "url": "https://www.infoq.com/articles/observability-control-plane-failover/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-20 09:00 UTC",
+      "summary_zh": "Cloud SLAs promise uptime statistically, not absol"
     },
     {
-      "title_zh": "A brief history of Nvidia’s recent stock fluctuations",
-      "title_en": "A brief history of Nvidia’s recent stock fluctuations",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "source": "The Verge",
-      "published_at": "2026-11-19 21:59 UTC",
-      "summary_zh": "\"We've got this,\" Colette Kress, interim CEO of Nv"
-    },
-    {
-      "title_zh": "Gemini 4 Neon",
-      "title_en": "Gemini 4 Neon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "title_zh": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "title_en": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
       "source": "Hacker News",
-      "published_at": "2026-11-18 21:34 UTC",
-      "summary_zh": "Article URL: https://blog.google/innovation-and-ai"
+      "published_at": "2026-11-20 10:01 UTC",
+      "summary_zh": "Article URL: https://architectlabs.com/blog/frostb"
+    },
+    {
+      "title_zh": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "title_en": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+      "source": "Hacker News",
+      "published_at": "2026-11-20 05:21 UTC",
+      "summary_zh": "Article URL: https://grapheneos.social/@GrapheneOS"
     }
   ],
   "public_articles": [
@@ -52,20 +52,20 @@
       "summary_zh": "Broadcom has released security updates to fix a cr"
     },
     {
-      "title_zh": "Five warning signs of ransomware breach before encryption or data theft",
-      "title_en": "Five warning signs of ransomware breach before encryption or data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+      "title_zh": "N-able says recent security breach led to major service outage",
+      "title_en": "N-able says recent security breach led to major service outage",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-19 15:00 UTC",
-      "summary_zh": "Ransomware attacks often involve credential theft,"
+      "published_at": "2026-11-20 13:18 UTC",
+      "summary_zh": "N-able says attackers who breached one of its serv"
     },
     {
-      "title_zh": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-      "title_en": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+      "title_zh": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+      "title_en": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-19 13:08 UTC",
-      "summary_zh": "The Drupal Security Team has patched a critical re"
+      "published_at": "2026-11-20 10:57 UTC",
+      "summary_zh": "US cybersecurity company F5 warned customers to pa"
     }
   ]
 }
