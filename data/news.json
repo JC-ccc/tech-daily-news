@@ -1,71 +1,71 @@
 {
-  "updated_at": "2026-11-21 13:50:03 (UTC+8)",
+  "updated_at": "2026-11-22 13:21:37 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "Google Donates Agent Substrate and gVisor to the CNCF to Secure AI Agents at Scale",
-      "title_en": "Google Donates Agent Substrate and gVisor to the CNCF to Secure AI Agents at Scale",
-      "url": "https://www.infoq.com/news/2026/11/google-substrate-gvisor-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "How Google Traced GKE API Timeouts to a Linux Kernel TCP Bug",
+      "title_en": "How Google Traced GKE API Timeouts to a Linux Kernel TCP Bug",
+      "url": "https://www.infoq.com/news/2026/11/gke-kernel-network-bug/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-20 12:00 UTC",
-      "summary_zh": "Google has announced it is donating Agent Substrat"
+      "published_at": "2026-11-21 09:44 UTC",
+      "summary_zh": "Google recently detailed how three interacting bug"
     },
     {
-      "title_zh": "Uber Cuts Translation Cache Memory by up to 90% While Keeping P99 Latency Below 1 MS",
-      "title_en": "Uber Cuts Translation Cache Memory by up to 90% While Keeping P99 Latency Below 1 MS",
-      "url": "https://www.infoq.com/news/2026/11/uber-go-translation-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Meta TLX, a Native GPU Compiler Extension Supporting Advanced Hardware Capabilities",
+      "title_en": "Meta TLX, a Native GPU Compiler Extension Supporting Advanced Hardware Capabilities",
+      "url": "https://www.infoq.com/news/2026/11/meta-triton-tlx-gpu-compiler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-20 14:38 UTC",
-      "summary_zh": "Uber redesigned its Go-based translation cache to "
+      "published_at": "2026-11-20 18:00 UTC",
+      "summary_zh": "Meta developed Triton Low-Level Extensions (TLX), "
     },
     {
-      "title_zh": "Article: Building Reliability Into the Cloud: Observability as the Control Plane for Multi-Region Failover",
-      "title_en": "Article: Building Reliability Into the Cloud: Observability as the Control Plane for Multi-Region Failover",
-      "url": "https://www.infoq.com/articles/observability-control-plane-failover/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-11-20 09:00 UTC",
-      "summary_zh": "Cloud SLAs promise uptime statistically, not absol"
+      "title_zh": "FBI reportedly hacked again, this time targeting nationwide police database",
+      "title_en": "FBI reportedly hacked again, this time targeting nationwide police database",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-21 14:26 UTC",
+      "summary_zh": "FBI systems have reportedly been breached for the "
     },
     {
-      "title_zh": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "title_en": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "url": "https://architectlabs.com/blog/frostbite",
-      "source": "Hacker News",
-      "published_at": "2026-11-20 10:01 UTC",
-      "summary_zh": "Article URL: https://architectlabs.com/blog/frostb"
+      "title_zh": "The UN fails to agree on rules regulating ‘killer robots’",
+      "title_en": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge",
+      "published_at": "2026-11-21 20:03 UTC",
+      "summary_zh": "One of the items on the agenda for UN diplomats me"
     },
     {
-      "title_zh": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
-      "title_en": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
-      "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
-      "source": "Hacker News",
-      "published_at": "2026-11-20 05:21 UTC",
-      "summary_zh": "Article URL: https://grapheneos.social/@GrapheneOS"
+      "title_zh": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+      "title_en": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-11-21 14:55 UTC",
+      "summary_zh": "If you’re looking for a new pair of earbuds, the S"
     }
   ],
   "public_articles": [
     {
-      "title_zh": "VMware patches vCenter zero-day exploited in attacks since September",
-      "title_en": "VMware patches vCenter zero-day exploited in attacks since September",
-      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "title_zh": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "title_en": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-20 00:26 UTC",
-      "summary_zh": "Broadcom has released security updates to fix a cr"
+      "published_at": "2026-11-21 18:01 UTC",
+      "summary_zh": "Microsoft is warning organizations that it suffere"
     },
     {
-      "title_zh": "N-able says recent security breach led to major service outage",
-      "title_en": "N-able says recent security breach led to major service outage",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+      "title_zh": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "title_en": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-20 13:18 UTC",
-      "summary_zh": "N-able says attackers who breached one of its serv"
+      "published_at": "2026-11-20 17:30 UTC",
+      "summary_zh": "Threat actors used the open-source AI penetration-"
     },
     {
-      "title_zh": "F5 releases emergency patches for critical BIG-IP RCE flaws",
-      "title_en": "F5 releases emergency patches for critical BIG-IP RCE flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-20 10:57 UTC",
-      "summary_zh": "US cybersecurity company F5 warned customers to pa"
+      "title_zh": "My monitor was cutting my download speed by 75%",
+      "title_en": "My monitor was cutting my download speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "source": "Hacker News",
+      "published_at": "2026-11-21 10:36 UTC",
+      "summary_zh": "Article URL: https://blog.tymscar.com/posts/studio"
     }
   ]
 }
