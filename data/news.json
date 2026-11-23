@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-11-22 13:21:37 (UTC+8)",
+  "updated_at": "2026-11-23 13:58:37 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "How Google Traced GKE API Timeouts to a Linux Kernel TCP Bug",
-      "title_en": "How Google Traced GKE API Timeouts to a Linux Kernel TCP Bug",
-      "url": "https://www.infoq.com/news/2026/11/gke-kernel-network-bug/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls",
+      "title_en": "PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls",
+      "url": "https://www.infoq.com/news/2026/11/postgresql-19-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-21 09:44 UTC",
-      "summary_zh": "Google recently detailed how three interacting bug"
+      "published_at": "2026-11-22 12:54 UTC",
+      "summary_zh": "The PostgreSQL Global Development Group released P"
     },
     {
-      "title_zh": "Meta TLX, a Native GPU Compiler Extension Supporting Advanced Hardware Capabilities",
-      "title_en": "Meta TLX, a Native GPU Compiler Extension Supporting Advanced Hardware Capabilities",
-      "url": "https://www.infoq.com/news/2026/11/meta-triton-tlx-gpu-compiler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Claude Code Has Been Leaking Secrets through its \"Don't Ask Again\" Feature",
+      "title_en": "Claude Code Has Been Leaking Secrets through its \"Don't Ask Again\" Feature",
+      "url": "https://www.infoq.com/news/2026/11/claude-code-leaking-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-20 18:00 UTC",
-      "summary_zh": "Meta developed Triton Low-Level Extensions (TLX), "
+      "published_at": "2026-11-22 11:00 UTC",
+      "summary_zh": "Agentic security firm Apiiro found that Claude Cod"
     },
     {
-      "title_zh": "FBI reportedly hacked again, this time targeting nationwide police database",
-      "title_en": "FBI reportedly hacked again, this time targeting nationwide police database",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-21 14:26 UTC",
-      "summary_zh": "FBI systems have reportedly been breached for the "
+      "title_zh": "Google Announces Agent Compute Engine for Secure AI Agent Execution",
+      "title_en": "Google Announces Agent Compute Engine for Secure AI Agent Execution",
+      "url": "https://www.infoq.com/news/2026/11/google-agent-compute-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-22 06:30 UTC",
+      "summary_zh": "Google recently announced Agent Compute Engine, a "
     },
     {
-      "title_zh": "The UN fails to agree on rules regulating ‘killer robots’",
-      "title_en": "The UN fails to agree on rules regulating ‘killer robots’",
-      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "title_zh": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "title_en": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
       "source": "The Verge",
-      "published_at": "2026-11-21 20:03 UTC",
-      "summary_zh": "One of the items on the agenda for UN diplomats me"
+      "published_at": "2026-11-23 03:00 UTC",
+      "summary_zh": "After expanding its Charmera collection with a Mil"
     },
     {
-      "title_zh": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-      "title_en": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "published_at": "2026-11-21 14:55 UTC",
-      "summary_zh": "If you’re looking for a new pair of earbuds, the S"
+      "title_zh": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "title_en": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "source": "Hacker News",
+      "published_at": "2026-11-23 01:13 UTC",
+      "summary_zh": "Article URL: https://spelunkr.tv Comments URL: htt"
     }
   ],
   "public_articles": [
@@ -52,20 +52,20 @@
       "summary_zh": "Microsoft is warning organizations that it suffere"
     },
     {
-      "title_zh": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "title_en": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "title_zh": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "title_en": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-20 17:30 UTC",
-      "summary_zh": "Threat actors used the open-source AI penetration-"
+      "published_at": "2026-11-22 18:45 UTC",
+      "summary_zh": "GL.iNet has confirmed that hackers exploited a vul"
     },
     {
-      "title_zh": "My monitor was cutting my download speed by 75%",
-      "title_en": "My monitor was cutting my download speed by 75%",
-      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "source": "Hacker News",
-      "published_at": "2026-11-21 10:36 UTC",
-      "summary_zh": "Article URL: https://blog.tymscar.com/posts/studio"
+      "title_zh": "We haven’t seen the last of the major tech outages",
+      "title_en": "We haven’t seen the last of the major tech outages",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "source": "The Verge",
+      "published_at": "2026-11-22 22:48 UTC",
+      "summary_zh": "Over the last week or so, we have seen a nationwid"
     }
   ]
 }
