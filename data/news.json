@@ -1,71 +1,71 @@
 {
-  "updated_at": "2026-11-23 13:58:37 (UTC+8)",
+  "updated_at": "2026-11-24 16:39:03 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls",
-      "title_en": "PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls",
-      "url": "https://www.infoq.com/news/2026/11/postgresql-19-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Agoda Reduces API Code Review Time by 64% with Modular Architecture",
+      "title_en": "Agoda Reduces API Code Review Time by 64% with Modular Architecture",
+      "url": "https://www.infoq.com/news/2026/11/agoda-modular-monolith-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-22 12:54 UTC",
-      "summary_zh": "The PostgreSQL Global Development Group released P"
+      "published_at": "2026-11-23 14:33 UTC",
+      "summary_zh": "Agoda introduced a modular monolith framework in i"
     },
     {
-      "title_zh": "Claude Code Has Been Leaking Secrets through its \"Don't Ask Again\" Feature",
-      "title_en": "Claude Code Has Been Leaking Secrets through its \"Don't Ask Again\" Feature",
-      "url": "https://www.infoq.com/news/2026/11/claude-code-leaking-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Podcast: Simulation Can Tell You What Your Agents are Actually Doing: A Conversation with Zhou Yu",
+      "title_en": "Podcast: Simulation Can Tell You What Your Agents are Actually Doing: A Conversation with Zhou Yu",
+      "url": "https://www.infoq.com/podcasts/simulation-agents-actually-doing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-22 11:00 UTC",
-      "summary_zh": "Agentic security firm Apiiro found that Claude Cod"
+      "published_at": "2026-11-23 11:00 UTC",
+      "summary_zh": "Michael Stiefel spoke to Zhou Yu about using dynam"
     },
     {
-      "title_zh": "Google Announces Agent Compute Engine for Secure AI Agent Execution",
-      "title_en": "Google Announces Agent Compute Engine for Secure AI Agent Execution",
-      "url": "https://www.infoq.com/news/2026/11/google-agent-compute-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "QCon San Francisco 2026: Securing AI Agents in Production",
+      "title_en": "QCon San Francisco 2026: Securing AI Agents in Production",
+      "url": "https://www.infoq.com/news/2026/11/qcon-ai-agent-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-22 06:30 UTC",
-      "summary_zh": "Google recently announced Agent Compute Engine, a "
+      "published_at": "2026-11-23 20:00 UTC",
+      "summary_zh": "At QCon San Francisco, Google's Amanda Walker fram"
     },
     {
-      "title_zh": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
-      "title_en": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
-      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
-      "source": "The Verge",
-      "published_at": "2026-11-23 03:00 UTC",
-      "summary_zh": "After expanding its Charmera collection with a Mil"
+      "title_zh": "JEP 545 Moves ZGC Memory Preparation off the Startup Path in JDK 28",
+      "title_en": "JEP 545 Moves ZGC Memory Preparation off the Startup Path in JDK 28",
+      "url": "https://www.infoq.com/news/2026/11/jep-545-jdk-28/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-23 15:30 UTC",
+      "summary_zh": "JEP 545, Faster Startup and Warmup with ZGC, has b"
     },
     {
-      "title_zh": "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "title_en": "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "url": "https://spelunkr.tv",
-      "source": "Hacker News",
-      "published_at": "2026-11-23 01:13 UTC",
-      "summary_zh": "Article URL: https://spelunkr.tv Comments URL: htt"
+      "title_zh": "Netflix at QConSF 2026: Retrofitting the SDLC for AI Coding Agents",
+      "title_en": "Netflix at QConSF 2026: Retrofitting the SDLC for AI Coding Agents",
+      "url": "https://www.infoq.com/news/2026/11/netflix-sdlc-ai-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-23 14:58 UTC",
+      "summary_zh": "At QCon San Francisco 2026, Mark Khuzam of Netflix"
     }
   ],
   "public_articles": [
     {
-      "title_zh": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
-      "title_en": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "title_zh": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+      "title_en": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-21 18:01 UTC",
-      "summary_zh": "Microsoft is warning organizations that it suffere"
+      "published_at": "2026-11-23 07:44 UTC",
+      "summary_zh": "The US Cybersecurity and Infrastructure Security A"
     },
     {
-      "title_zh": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-      "title_en": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "title_zh": "Microsoft Azure flaw exploited to steal customers' API credentials",
+      "title_en": "Microsoft Azure flaw exploited to steal customers' API credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-22 18:45 UTC",
-      "summary_zh": "GL.iNet has confirmed that hackers exploited a vul"
+      "published_at": "2026-11-23 19:42 UTC",
+      "summary_zh": "Microsoft is warning customers that a security vul"
     },
     {
-      "title_zh": "We haven’t seen the last of the major tech outages",
-      "title_en": "We haven’t seen the last of the major tech outages",
-      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
-      "source": "The Verge",
-      "published_at": "2026-11-22 22:48 UTC",
-      "summary_zh": "Over the last week or so, we have seen a nationwid"
+      "title_zh": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "title_en": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+      "source": "Hacker News",
+      "published_at": "2026-11-24 02:27 UTC",
+      "summary_zh": "Article URL: https://www.governor.ny.gov/news/mone"
     }
   ]
 }
