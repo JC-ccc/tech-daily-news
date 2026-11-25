@@ -1,21 +1,37 @@
 {
-  "updated_at": "2026-11-24 16:39:03 (UTC+8)",
+  "updated_at": "2026-11-25 15:12:39 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "Agoda Reduces API Code Review Time by 64% with Modular Architecture",
-      "title_en": "Agoda Reduces API Code Review Time by 64% with Modular Architecture",
-      "url": "https://www.infoq.com/news/2026/11/agoda-modular-monolith-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Article: Engineering Around Non-Determinism: Evals, Grounding, and Release Gates for AI-Drafted Suspicious Reports",
+      "title_en": "Article: Engineering Around Non-Determinism: Evals, Grounding, and Release Gates for AI-Drafted Suspicious Reports",
+      "url": "https://www.infoq.com/articles/llm-agent-architecture-evals-grounding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-23 14:33 UTC",
-      "summary_zh": "Agoda introduced a modular monolith framework in i"
+      "published_at": "2026-11-24 09:30 UTC",
+      "summary_zh": "Moving GenAI into high-stakes production requires "
     },
     {
-      "title_zh": "Podcast: Simulation Can Tell You What Your Agents are Actually Doing: A Conversation with Zhou Yu",
-      "title_en": "Podcast: Simulation Can Tell You What Your Agents are Actually Doing: A Conversation with Zhou Yu",
-      "url": "https://www.infoq.com/podcasts/simulation-agents-actually-doing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve",
+      "title_en": "CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve",
+      "url": "https://www.infoq.com/news/2026/11/cncf-vm-ai-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-23 11:00 UTC",
-      "summary_zh": "Michael Stiefel spoke to Zhou Yu about using dynam"
+      "published_at": "2026-11-24 12:00 UTC",
+      "summary_zh": "New research from the Cloud Native Computing Found"
+    },
+    {
+      "title_zh": "Presentation: Inferencing for Enterprises",
+      "title_en": "Presentation: Inferencing for Enterprises",
+      "url": "https://www.infoq.com/presentations/enterprise-ai-inference-architecture-costs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-24 11:00 UTC",
+      "summary_zh": "Dio Rettori discusses the operational realities of"
+    },
+    {
+      "title_zh": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+      "title_en": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-24 13:34 UTC",
+      "summary_zh": "OpenAI and Cisco launched an open-source Linux sec"
     },
     {
       "title_zh": "QCon San Francisco 2026: Securing AI Agents in Production",
@@ -24,33 +40,9 @@
       "source": "InfoQ",
       "published_at": "2026-11-23 20:00 UTC",
       "summary_zh": "At QCon San Francisco, Google's Amanda Walker fram"
-    },
-    {
-      "title_zh": "JEP 545 Moves ZGC Memory Preparation off the Startup Path in JDK 28",
-      "title_en": "JEP 545 Moves ZGC Memory Preparation off the Startup Path in JDK 28",
-      "url": "https://www.infoq.com/news/2026/11/jep-545-jdk-28/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-11-23 15:30 UTC",
-      "summary_zh": "JEP 545, Faster Startup and Warmup with ZGC, has b"
-    },
-    {
-      "title_zh": "Netflix at QConSF 2026: Retrofitting the SDLC for AI Coding Agents",
-      "title_en": "Netflix at QConSF 2026: Retrofitting the SDLC for AI Coding Agents",
-      "url": "https://www.infoq.com/news/2026/11/netflix-sdlc-ai-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-11-23 14:58 UTC",
-      "summary_zh": "At QCon San Francisco 2026, Mark Khuzam of Netflix"
     }
   ],
   "public_articles": [
-    {
-      "title_zh": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
-      "title_en": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-23 07:44 UTC",
-      "summary_zh": "The US Cybersecurity and Infrastructure Security A"
-    },
     {
       "title_zh": "Microsoft Azure flaw exploited to steal customers' API credentials",
       "title_en": "Microsoft Azure flaw exploited to steal customers' API credentials",
@@ -60,12 +52,20 @@
       "summary_zh": "Microsoft is warning customers that a security vul"
     },
     {
-      "title_zh": "New York Bans Subscription and Post-Purchase Fees on Cars",
-      "title_en": "New York Bans Subscription and Post-Purchase Fees on Cars",
-      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
-      "source": "Hacker News",
-      "published_at": "2026-11-24 02:27 UTC",
-      "summary_zh": "Article URL: https://www.governor.ny.gov/news/mone"
+      "title_zh": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "title_en": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "source": "Ars Technica",
+      "published_at": "2026-11-24 12:30 UTC",
+      "summary_zh": "The Cairn AI framework is proving to be a boon for"
+    },
+    {
+      "title_zh": "Rackspace shuts down Spot cloud platform after security breach",
+      "title_en": "Rackspace shuts down Spot cloud platform after security breach",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-24 21:37 UTC",
+      "summary_zh": "Rackspace is shutting down its Rackspace Spot clou"
     }
   ]
 }
