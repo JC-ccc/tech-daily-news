@@ -1,71 +1,71 @@
 {
-  "updated_at": "2026-11-25 15:12:39 (UTC+8)",
+  "updated_at": "2026-11-26 15:02:17 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "Article: Engineering Around Non-Determinism: Evals, Grounding, and Release Gates for AI-Drafted Suspicious Reports",
-      "title_en": "Article: Engineering Around Non-Determinism: Evals, Grounding, and Release Gates for AI-Drafted Suspicious Reports",
-      "url": "https://www.infoq.com/articles/llm-agent-architecture-evals-grounding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Rust 1.100 Ships the Never Type After Ten Years and Five Failed Attempts",
+      "title_en": "Rust 1.100 Ships the Never Type After Ten Years and Five Failed Attempts",
+      "url": "https://www.infoq.com/news/2026/11/rust-1-100-never-types/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-24 09:30 UTC",
-      "summary_zh": "Moving GenAI into high-stakes production requires "
+      "published_at": "2026-11-25 07:29 UTC",
+      "summary_zh": "Rust 1.100.0, released 12 November 2026, stabilise"
     },
     {
-      "title_zh": "CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve",
-      "title_en": "CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve",
-      "url": "https://www.infoq.com/news/2026/11/cncf-vm-ai-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-11-24 12:00 UTC",
-      "summary_zh": "New research from the Cloud Native Computing Found"
+      "title_zh": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "title_en": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "source": "The Verge",
+      "published_at": "2026-11-25 17:44 UTC",
+      "summary_zh": "In an announcement on Wednesday, the FCC says it a"
     },
     {
-      "title_zh": "Presentation: Inferencing for Enterprises",
-      "title_en": "Presentation: Inferencing for Enterprises",
-      "url": "https://www.infoq.com/presentations/enterprise-ai-inference-architecture-costs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Recap of Microsoft Ignite 2026: Copilot as the Work OS and Agent Governance",
+      "title_en": "Recap of Microsoft Ignite 2026: Copilot as the Work OS and Agent Governance",
+      "url": "https://www.infoq.com/news/2026/11/microsoft-ignite-2026-recap/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-24 11:00 UTC",
-      "summary_zh": "Dio Rettori discusses the operational realities of"
+      "published_at": "2026-11-26 06:45 UTC",
+      "summary_zh": "At Ignite 2026, Microsoft positioned Copilot as th"
     },
     {
-      "title_zh": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-      "title_en": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-      "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-24 13:34 UTC",
-      "summary_zh": "OpenAI and Cisco launched an open-source Linux sec"
+      "title_zh": "DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners",
+      "title_en": "DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners",
+      "url": "https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source": "InfoQ",
+      "published_at": "2026-11-25 17:00 UTC",
+      "summary_zh": "Google DeepMind introduced Gemini Robotics 2.5, a "
     },
     {
-      "title_zh": "QCon San Francisco 2026: Securing AI Agents in Production",
-      "title_en": "QCon San Francisco 2026: Securing AI Agents in Production",
-      "url": "https://www.infoq.com/news/2026/11/qcon-ai-agent-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "DoorDash Scales Dispatch 10x While Maintaining 99.99% Peak Availability",
+      "title_en": "DoorDash Scales Dispatch 10x While Maintaining 99.99% Peak Availability",
+      "url": "https://www.infoq.com/news/2026/11/doordash-dispatch-redesign/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-23 20:00 UTC",
-      "summary_zh": "At QCon San Francisco, Google's Amanda Walker fram"
+      "published_at": "2026-11-25 14:44 UTC",
+      "summary_zh": "DoorDash has redesigned its real-time dispatch pla"
     }
   ],
   "public_articles": [
     {
-      "title_zh": "Microsoft Azure flaw exploited to steal customers' API credentials",
-      "title_en": "Microsoft Azure flaw exploited to steal customers' API credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+      "title_zh": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+      "title_en": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-23 19:42 UTC",
-      "summary_zh": "Microsoft is warning customers that a security vul"
+      "published_at": "2026-11-25 10:10 UTC",
+      "summary_zh": "The Drupal security team has confirmed that a crit"
     },
     {
-      "title_zh": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "title_en": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-      "source": "Ars Technica",
-      "published_at": "2026-11-24 12:30 UTC",
-      "summary_zh": "The Cairn AI framework is proving to be a boon for"
+      "title_zh": "1Password breach leaked customer names and emails, but not passwords",
+      "title_en": "1Password breach leaked customer names and emails, but not passwords",
+      "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+      "source": "The Verge",
+      "published_at": "2026-11-25 19:10 UTC",
+      "summary_zh": "1Password says a hacker stole customer names and e"
     },
     {
-      "title_zh": "Rackspace shuts down Spot cloud platform after security breach",
-      "title_en": "Rackspace shuts down Spot cloud platform after security breach",
-      "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "title_zh": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "title_en": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-24 21:37 UTC",
-      "summary_zh": "Rackspace is shutting down its Rackspace Spot clou"
+      "published_at": "2026-11-25 19:39 UTC",
+      "summary_zh": "Swiss and Italian cybersecurity agencies are warni"
     }
   ]
 }
