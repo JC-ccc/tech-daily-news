@@ -1,21 +1,29 @@
 {
-  "updated_at": "2026-11-26 15:02:17 (UTC+8)",
+  "updated_at": "2026-11-27 14:58:04 (UTC+8)",
   "core_articles": [
     {
-      "title_zh": "Rust 1.100 Ships the Never Type After Ten Years and Five Failed Attempts",
-      "title_en": "Rust 1.100 Ships the Never Type After Ten Years and Five Failed Attempts",
-      "url": "https://www.infoq.com/news/2026/11/rust-1-100-never-types/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "title_zh": "Presentation: Finetuning Your Embedding Model for Better Search: Learning from Agentic Search at Dell",
+      "title_en": "Presentation: Finetuning Your Embedding Model for Better Search: Learning from Agentic Search at Dell",
+      "url": "https://www.infoq.com/presentations/fine-tune-enterprise-rag-embeddings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "source": "InfoQ",
-      "published_at": "2026-11-25 07:29 UTC",
-      "summary_zh": "Rust 1.100.0, released 12 November 2026, stabilise"
+      "published_at": "2026-11-26 11:00 UTC",
+      "summary_zh": "Rachel Shalom explains how Dell solved enterprise "
     },
     {
-      "title_zh": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-      "title_en": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-      "source": "The Verge",
-      "published_at": "2026-11-25 17:44 UTC",
-      "summary_zh": "In an announcement on Wednesday, the FCC says it a"
+      "title_zh": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "title_en": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "source": "Hacker News",
+      "published_at": "2026-11-26 09:44 UTC",
+      "summary_zh": "Article URL: https://techstackups.com/articles/goo"
+    },
+    {
+      "title_zh": "Tell HN: Lots of Ask HNs again",
+      "title_en": "Tell HN: Lots of Ask HNs again",
+      "url": "https://news.ycombinator.com/item?id=50649864",
+      "source": "Hacker News",
+      "published_at": "2026-11-26 00:43 UTC",
+      "summary_zh": "There have been questions about why the /ask page "
     },
     {
       "title_zh": "Recap of Microsoft Ignite 2026: Copilot as the Work OS and Agent Governance",
@@ -26,38 +34,22 @@
       "summary_zh": "At Ignite 2026, Microsoft positioned Copilot as th"
     },
     {
-      "title_zh": "DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners",
-      "title_en": "DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners",
-      "url": "https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-11-25 17:00 UTC",
-      "summary_zh": "Google DeepMind introduced Gemini Robotics 2.5, a "
-    },
-    {
-      "title_zh": "DoorDash Scales Dispatch 10x While Maintaining 99.99% Peak Availability",
-      "title_en": "DoorDash Scales Dispatch 10x While Maintaining 99.99% Peak Availability",
-      "url": "https://www.infoq.com/news/2026/11/doordash-dispatch-redesign/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "source": "InfoQ",
-      "published_at": "2026-11-25 14:44 UTC",
-      "summary_zh": "DoorDash has redesigned its real-time dispatch pla"
+      "title_zh": "Fake paid expert interviews impersonate brands to steal Google logins",
+      "title_en": "Fake paid expert interviews impersonate brands to steal Google logins",
+      "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-26 17:15 UTC",
+      "summary_zh": "An ongoing phishing campaign dubbed \"GoodGuys\" imp"
     }
   ],
   "public_articles": [
     {
-      "title_zh": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-      "title_en": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+      "title_zh": "Remus malware steals Gmail messages via fake Google Sheets extension",
+      "title_en": "Remus malware steals Gmail messages via fake Google Sheets extension",
+      "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
       "source": "BleepingComputer",
-      "published_at": "2026-11-25 10:10 UTC",
-      "summary_zh": "The Drupal security team has confirmed that a crit"
-    },
-    {
-      "title_zh": "1Password breach leaked customer names and emails, but not passwords",
-      "title_en": "1Password breach leaked customer names and emails, but not passwords",
-      "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
-      "source": "The Verge",
-      "published_at": "2026-11-25 19:10 UTC",
-      "summary_zh": "1Password says a hacker stole customer names and e"
+      "published_at": "2026-11-26 15:23 UTC",
+      "summary_zh": "The Remus infostealer is stealing Gmail messages t"
     },
     {
       "title_zh": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
@@ -66,6 +58,14 @@
       "source": "BleepingComputer",
       "published_at": "2026-11-25 19:39 UTC",
       "summary_zh": "Swiss and Italian cybersecurity agencies are warni"
+    },
+    {
+      "title_zh": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "title_en": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-25 22:05 UTC",
+      "summary_zh": "Threat actors are chaining exploits for the PHP2Sh"
     }
   ]
 }
